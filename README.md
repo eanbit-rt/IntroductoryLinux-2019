@@ -2,14 +2,13 @@
 
 The planned topics include:
 1. Reminder on the structure of a command line: command name, parameters (short and long format) and arguments
-2. Variables and variable expansion with the $ sign. The effect of single- or double-quoting
-
-3. String manipulation in Bash, with constructs like "${var:2:5}" or "${var%.tar} (see https://www.tldp.org/LDP/abs/html/string-manipulation.html)
-4. Arithmetic calculations in Bash, with "expr" or constructs like "$(( var + 1 ))"
-5. Shell scripts
-5. Tests and control structures. Things like `if \[ $a -ne 0 ]`, loops (for and while)
 6. Refresher on grep. Simple examples
 7. Bash utilities like diff, cut, join
+2. Variables and variable expansion with the $ sign. The effect of single- or double-quoting
+5. Shell scripts
+5. Tests and control structures. Things like `if \[ $a -ne 0 ]`, loops (for and while)
+3. String manipulation in Bash, with constructs like "${var:2:5}" or "${var%.tar} (see https://www.tldp.org/LDP/abs/html/string-manipulation.html)
+4. Arithmetic calculations in Bash, with "expr" or constructs like "$(( var + 1 ))""
 8. Simple file processing with sed.
 9. awk.
 
