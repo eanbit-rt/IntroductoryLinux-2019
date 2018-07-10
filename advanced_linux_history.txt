@@ -1,0 +1,1000 @@
+  374  cd RNASeq/
+  375  ls
+  376  cd Results/
+  377  ls
+  378  cd Cufflinks/
+  379  ls
+  380  cd sample
+  381  cd sample37
+  382  ls
+  383  cd ..
+  384  ls
+  385  cd sample40
+  386  ls
+  387  cd ..
+  388  ls
+  389  cd ..
+  390  ls
+  391  cd TopHat/
+  392  ls
+  393  cd sample37
+  394  ls
+  395  cd
+  396  tmux -h
+  397  man tmux
+  398  source activate py27
+  399  jupyter lab --no-browser
+  400  ls
+  401  cd Accreditation/
+  402  ls
+  403  cd RNASeq/
+  404  ls
+  405  exi
+  406  exit
+  407  source activate iccipe-env
+  408  source activate icipe-env
+  409  jupyter lab --no-browser
+  410  ls
+  411  cd EANBiT/
+  412  ls
+  413  cd Python/
+  414  ls
+  415  cd Python
+  416  cd Python4Bioinfo/
+  417  ls
+  418  git status
+  419  git checkout training
+  420  git status
+  421  git merge master
+  422  git status
+  423  git log
+  424  git revert HEAD
+  425  ls
+  426  cd Intro-to-Python/
+  427  ls
+  428  cd ..
+  429  ls
+  430  git pull
+  431  ls
+  432  git merge --abort
+  433  git status
+  434  cd Intro-to-Python/
+  435  ls
+  436  git checkout master
+  437  git merge training
+  438  git status
+  439  git commit
+  440  git add ../README.md 
+  441  git commit
+  442  git status
+  443  ls
+  444  cd ..
+  445  ls
+  446  git status
+  447  git push
+  448  ls
+  449  git chekout training
+  450  git checkout training
+  451  ls
+  452  cd Intro-to-Python/
+  453  ls
+  454  cd ..
+  455  ls
+  456  cd Intro-to-Python/
+  457  ls
+  458  cp 03.ipynb ../../
+  459  ls
+  460  cd ..
+  461  ls
+  462  cd ..
+  463  ls
+  464  cd Python
+  465  cd Python4Bioinfo/
+  466  ls
+  467  cp -r Intro-to-Python/ ../../
+  468  ls
+  469  cd ..
+  470  ls
+  471  cd ..
+  472  ls
+  473  cd  Intro-to-Python/
+  474  ls
+  475  git status
+  476  cd ..
+  477  cd Python/
+  478  cd Python4Bioinfo/
+  479  ls
+  480  git status
+  481  git checkout master
+  482  ls
+  483  cd Careen/BED/
+  484  ls
+  485  modules av
+  486  modules -av
+  487  modules avail
+  488  module avail
+  489  module av
+  490  ls
+  491  cd ..
+  492  ls
+  493  cp -r BED/ /tmp/
+  494  ls
+  495  cd /tmp/
+  496  ls
+  497  cd BED/
+  498  ls
+  499  cd
+  500  cd Accreditation/
+  501  ls
+  502  cd RNASeq/
+  503  ls
+  504  cd Results/
+  505  ls
+  506  mkdir Cufflinks
+  507  ols
+  508  ls
+  509  cd ../Data/
+  510  ls
+  511  cd p
+  512  cd Practice/
+  513  ls
+  514  ls |grep 'sample'
+  515  ls |grep 'sample'|cut -f1 -d'_'
+  516  ls |grep 'sample'|cut -f1 -d'_'|uniq
+  517  ls |grep 'sample'|cut -f1 -d'_'|uniq >../../Code/samples
+  518  ls
+  519  cd
+  520  cd Accreditation/RNASeq/Code/
+  521  ls
+  522  chmod +x run_tophat.sh 
+  523  cat run_tophat.sh 
+  524  ls
+  525  c
+  526  ./run_
+  527  ./run_tophat.sh 
+  528  ls
+  529  which python
+  530  cd
+  531  cd EANBiT/
+  532  ls
+  533  cd Python/
+  534  ls
+  535  cd Python4Bioinfo/
+  536  cd ..
+  537  ls
+  538  mv Python.pdf ../
+  539  ls
+  540  cd Python4Bioinfo/
+  541  ls
+  542  git status
+  543  ls
+  544  cd ../
+  545  ls
+  546  cd ..
+  547  ls
+  548  cd Intro-to-Python/
+  549  ls
+  550  cp 04.ipynb ../Python/Python4Bioinfo/Intro-to-Python/
+  551  ls
+  552  cd ../Python/Python4Bioinfo/
+  553  git status
+  554  git add Intro-to-Python/03.ipynb Intro-to-Python/execution.png 
+  555  git commit -m'Adding Data structures notes'
+  556  git push
+  557  git status
+  558  git add Intro-to-Python/04.ipynb 
+  559  git commit -m'Dictionaries Notebook'
+  560  git push
+  561  ls
+  562  cp ../../Intro-to-Python/05.ipynb ./Intro-to-Python/
+  563  ls
+  564  git status
+  565  git add Intro-to-Python/04.ipynb 
+  566  git add Intro-to-Python/05.ipynb 
+  567  git commit -m'Adding notes for conditionals'
+  568  git push
+  569  ls
+  570  ls ../../Intro-to-Python/
+  571  cp ../../Intro-to-Python/06.ipynb Intro-to-Python/
+  572  ls Intro-to-Python/
+  573  ls
+  574  git status
+  575  git add Intro-to-Python/06.ipynb 
+  576  git commit -m"Adding the functions notebook"
+  577  git push
+  578  git status
+  579  git add Intro-to-Python/06.ipynb 
+  580  git commit -m"Updating the functions notebook"
+  581  git push
+  582  ls
+  583  git status
+  584  git add Files/
+  585  git add Intro-to-Python/0*
+  586  git status
+  587  git add Intro-to-Python/*.py
+  588  git status
+  589  git add Intro-to-Python/08.ipynb 
+  590  ls
+  591  git commit -m"File, Scripts and modules'
+  592  "
+  593  git push
+  594  ls
+  595  git status
+  596  ls
+  597  git status
+  598  git add Intro-to-Python/0*
+  599  git status
+  600  git add README.md 
+  601  git commit -m"Adding Pands and Bioinformatics Notebooks"
+  602  git push 
+  603  git status
+  604  git add Intro-to-Python/00.ipynb 
+  605  git add README.md 
+  606  git commit -m'minor edits'
+  607  git push
+  608  ed
+  609  man ed
+  610  man sed
+  611  exit
+  612  cd Accreditation/RNASeq/Code/
+  613  ls
+  614  source activate py27
+  615  ls
+  616  ./run_tophat.sh 
+  617  exit
+  618  ls
+  619  source activate py27
+  620  conda install -c bioconda cufflinks
+  621  exit
+  622  tmux
+  623  tmux new -s accredit
+  624  exit
+  625  ls
+  626  mkdir MARS
+  627  ls
+  628  source activate icipe-env
+  629  jupyter lab --no-browser
+  630  exiit
+  631  exit
+  632  source activate icipe-env
+  633  jupyter lab --no-browser
+  634  ls
+  635  cd EANBiT/
+  636  ls
+  637  cd R/
+  638  ls
+  639  cd Data/
+  640  ls
+  641  cd ..
+  642  ls
+  643  cd ..
+  644  ls
+  645  cd Linux/
+  646  ls
+  647  cd Notebooks/
+  648  ls
+  649  mv file1.txt ../
+  650  ls
+  651  cd ..
+  652  ls
+  653  mv file1.txt Practice/
+  654  ls
+  655  cd Practice/
+  656  ls
+  657  awk '{print $1}' file1.txt 
+  658  cut -f1 file1.txt 
+  659  cut -f1 -d" " file1.txt 
+  660  awk '{print $1}' file1.txt 
+  661  awk '{print $2}' file1.txt 
+  662  awk NR!=1'{print $2}' file1.txt 
+  663  awk 'NR!=1{print $2}' file1.txt 
+  664  awk 'NR!=1{print $1}' file1.txt 
+  665  nano file2
+  666  cat file2
+  667  awk '{print $2}' file2.txt 
+  668  awk '{print $2}' file2
+  669  awk '{print $1}' file2
+  670  awk -F',' '{print $1}' file2
+  671  awk -F',' '{print $3}' file2
+  672  awk -F',' '{print $2}' file2
+  673  cd ..
+  674  ftp ftp.oreilly.com
+  675  sudo yum-install ftp
+  676  sudo yum install ftp
+  677  ftp ftp.oreilly.com
+  678  ls
+  679  gunzip progs.tar.Z 
+  680  ls
+  681  untar progs.tar 
+  682  tar -xz  progs.tar 
+  683  tar -xvf  progs.tar 
+  684  ls
+  685  cd awkprogs/
+  686  ls
+  687  cat awkro 
+  688  ls
+  689  cd ..
+  690  ls
+  691  rm progs.tar 
+  692  ls
+  693  cd p
+  694  cd Practice/
+  695  ls
+  696  awk -F, '{print $2}' file2
+  697  awk -F" " '{print $2}' file2
+  698  awk -F"," '{print $2}' file2
+  699  awk -FS"," '{print $2}' file2
+  700  awk FS"," '{print $2}' file2
+  701  awk FS="," '{print $2}' file2
+  702  awk FS=",", '{print $2}' file2
+  703  awk '{print $2}' FS="," file2
+  704  ls
+  705  nano file3
+  706  ls
+  707  echo $x
+  708  x=3
+  709  echo $x
+  710  awk -v val=$x '{print $0+val}' file3
+  711  cat file3
+  712  clear
+  713  ls
+  714  awk -v val=$x '{print $0+val}' file3
+  715  man awk
+  716  awk -v val=$x '{print $0+val}' file3
+  717  nano
+  718  cat list 
+  719  sed ’s/ MA/, Massachusetts/’ list
+  720  sed 's/ MA/, Massachusetts/' list
+  721  ls
+  722  cat list 
+  723  nano sedscr
+  724  sed -f sedscr file
+  725  sed -f sedscr list 
+  726  ls
+  727  stringZ=abcABC123ABCabc
+  728  expr 3 + 5
+  729  3 + 5
+  730  expr 3 + 5
+  731  y=2
+  732  total = `expr $y + 2`
+  733  total=`expr $y + 2`
+  734  $total
+  735  total
+  736  y
+  737  expr y
+  738  expr $y
+  739  expr $total
+  740  ls
+  741  man sed
+  742  sed 's/ MA/, Massachusetts/' list
+  743  sed 's/ MA/, Massachusetts/g' list
+  744  sed 's/ MA/, Massachusetts/' list
+  745  man sed
+  746  cd
+  747  cd EANBiT/
+  748  ls
+  749  cd Linux/
+  750  ls
+  751  git status
+  752  git add Practice/
+  753  git status
+  754  git add Notebooks/*
+  755  git status
+  756  git add README.md 
+  757  git ccommit -m'advanced Linux'
+  758  git commit -m'advanced Linux'
+  759  git push
+  760  cd
+  761  cd EANBIT/
+  762  cd Linux/
+  763  cd Data/
+  764  ls
+  765  head nrf1_seq.fa 
+  766  grep '>"
+  767  nrf1_seq.fa |head
+  768  '
+  769  grep '>' nrf1_seq.fa |head
+  770  grep '>' nrf1_seq.fa |cut -f2,3 -d" "|head
+  771  grep '>' nrf1_seq.fa |cut -f2,3 -d" "
+  772  grep '>' nrf1_seq.fa |cut -f2,3,4 -d" "
+  773  grep '>' nrf1_seq.fa |cut -f2,3,4 -d" " |sed 's\PREDICTED:  \\'|head
+  774  grep '>' nrf1_seq.fa |cut -f2,3,4 -d" " |sed 's\PREDICTED:  \\g'|head
+  775  grep '>' nrf1_seq.fa |cut -f2,3,4 -d" " |sed -e 's\PREDICTED:  \\g'|head
+  776  grep '>' nrf1_seq.fa |cut -f2,3,4 -d" " |sed -e 's/PREDICTED:  //'|head
+  777  grep '>' nrf1_seq.fa |cut -f2,3,4 -d" " |sed -e 's/PREDICTED://'|head
+  778  grep '>' nrf1_seq.fa |cut -f2,3,4 -d" " |sed -e 's/PREDICTED: //'|head
+  779  grep '>' nrf1_seq.fa |cut -f2,3,4 -d" " |sed -e 's/PREDICTED: //'|cut -f1,2 -d" "
+  780  grep '>' nrf1_seq.fa |cut -f2,3,4 -d" " |sed -e 's/PREDICTED: //'|cut -f1,2 -d" "
+  781  ## Advanced Linux
+  782  The planned topics include:
+  783  1. Reminder on the structure of a command line: command name, parameters (short and long format) and arguments
+  784  2. Variables and variable expansion with the $ sign. The effect of single- or double-quoting
+  785  3. String manipulation in Bash, with constructs like "${var:2:5}" or "${var%.tar} (see https://www.tldp.org/LDP/abs/html/string-manipulation.html)
+  786  4. Arithmetic calculations in Bash, with "expr" or constructs like "$(( var + 1 ))"
+  787  5. Shell scripts
+  788  5. Tests and control structures. Things like `if \[ $a -ne 0 ]`, loops (for and while)
+  789  6. Refresher on grep. Simple examples
+  790  7. Bash utilities like diff, cut, join
+  791  8. Simple file processing with sed.
+  792  9. awk.
+  793  ### Regular expressions
+  794  See [this](https://www.rexegg.com/regex-quickstart.html) detailed regular expression cheat sheat. 
+  795  ## sed
+  796          `sed [-e] 'instruction' file`
+  797  The command line options are:
+  798          -e Editing instruction follows.
+  799          -f Filename of the script follows.
+  800          -n Suppress automatic output of input lines.
+  801  You can pass multiple sed commands by preceding each with `-e` or a semicolon (`;`)
+  802      
+  803      ` sed -e 's/old/new/' -e ’s/old1/new2/' file`
+  804      
+  805  You can also pass commands to `sed` in a file using `-f`.
+  806      
+  807      `sed -f sedcscript -e `
+  808      
+  809  For further resources on sed, see: [Provide a good link]
+  810  ## awk
+  811  Named after the three developers. 
+  812  `awk 'instructions’ files`
+  813  For example, in this example where sed works like `cut`,
+  814  `awk '{ print $1 }' file`, The instruction is to print the first field in the file. By default, the fields are delimited by space. Where another character delimits the fields, `-F` is used to specify the delimiter. 
+  815   `awk -F, '{ print $1 }' file` (a comma in this example)
+  816  You can also print each field in its line by separating the print statements with a semicolon. 
+  817   `awk -F, '{ print $1; print $2; print $3 }' file`
+  818      
+  819  git push
+  820  cd p
+  821  echo grep '>' nrf1_seq.fa |cut -f2,3,4 -d" " |sed -e 's/PREDICTED: //'|cut -f1,2 -d" "
+  822  echo grep '>' nrf1_seq.fa |cut -f2,3,4 -d" " |sed -e 's/PREDICTED: //'|cut -f1,2 -d" " >text
+  823  grep '>' nrf1_seq.fa |cut -f2,3,4 -d" " |sed -e 's/PREDICTED: //'|cut -f1,2 -d" " >text
+  824  ## Advanced Linux
+  825  The planned topics include:
+  826  1. Reminder on the structure of a command line: command name, parameters (short and long format) and arguments
+  827  2. Variables and variable expansion with the $ sign. The effect of single- or double-quoting
+  828  3. String manipulation in Bash, with constructs like "${var:2:5}" or "${var%.tar} (see https://www.tldp.org/LDP/abs/html/string-manipulation.html)
+  829  4. Arithmetic calculations in Bash, with "expr" or constructs like "$(( var + 1 ))"
+  830  5. Shell scripts
+  831  5. Tests and control structures. Things like `if \[ $a -ne 0 ]`, loops (for and while)
+  832  6. Refresher on grep. Simple examples
+  833  7. Bash utilities like diff, cut, join
+  834  8. Simple file processing with sed.
+  835  9. awk.
+  836  ### Regular expressions
+  837  See [this](https://www.rexegg.com/regex-quickstart.html) detailed regular expression cheat sheat. 
+  838  ## sed
+  839          `sed [-e] 'instruction' file`
+  840  The command line options are:
+  841          -e Editing instruction follows.
+  842          -f Filename of the script follows.
+  843          -n Suppress automatic output of input lines.
+  844  You can pass multiple sed commands by preceding each with `-e` or a semicolon (`;`)
+  845      
+  846      ` sed -e 's/old/new/' -e ’s/old1/new2/' file`
+  847      
+  848  You can also pass commands to `sed` in a file using `-f`.
+  849      
+  850      `sed -f sedcscript -e `
+  851      
+  852  For further resources on sed, see: [Provide a good link]
+  853  ## awk
+  854  Named after the three developers. 
+  855  `awk 'instructions’ files`
+  856  For example, in this example where sed works like `cut`,
+  857  `awk '{ print $1 }' file`, The instruction is to print the first field in the file. By default, the fields are delimited by space. Where another character delimits the fields, `-F` is used to specify the delimiter. 
+  858   `awk -F, '{ print $1 }' file` (a comma in this example)
+  859  You can also print each field in its line by separating the print statements with a semicolon. 
+  860   `awk -F, '{ print $1; print $2; print $3 }' file`
+  861      
+  862  grep '>' nrf1_seq.fa |cut -f2,3,4 -d" " |sed -e 's/PREDICTED: //'|cut -f1,2 -d" "
+  863  grep '>' nrf1_seq.fa |cut -f2,3,4 -d" " |sed -e 's/PREDICTED: //'|cut -f1,2 -d" " |sort -u
+  864  grep '>' nrf1_seq.fa |cut -f2,3,4 -d" " |sed -e 's/PREDICTED: //'|cut -f1,2 -d" " |sort -u |wc -l
+  865  grep '>' nrf1_seq.fa |cut -f2,3 -d" " |sort -u |wc -l
+  866  man cut
+  867  grep 'mRNA' nrf1_seq.fa 
+  868  grep -c 'mRNA' nrf1_seq.fa 
+  869  man grep
+  870  grep -c -o 'mRNA' nrf1_seq.fa 
+  871  grep -c -i 'mRNA' nrf1_seq.fa 
+  872  ls
+  873  grep -c -i 'mRNA' nrf1_seq.fa 
+  874  grep '>' nrf1_seq.fa 
+  875  heead
+  876  head
+  877  head nrf1_seq.fa 
+  878  man grep
+  879  cd EANBIT/
+  880  ls
+  881  cd Linux/
+  882  ls
+  883  cd Data/
+  884  ls
+  885  grep -m18 nrf1_seq.fa 
+  886  grep -m18 '>' nrf1_seq.fa 
+  887  grep -m18 '>' nrf1_seq.fa |wc -l
+  888  man grep
+  889  grep -m18 -n '>' nrf1_seq.fa |wc -l
+  890  grep -m18 -n '>' nrf1_seq.fa
+  891  grep -m19 -n '>' nrf1_seq.fa
+  892  grep -m19 -n '>' nrf1_seq.fa|tail -n2
+  893  grep -m19 -n '>' nrf1_seq.fa|tail 2
+  894  grep -m19 -n '>' nrf1_seq.fa|tail -n 2
+  895  grep -m19 -n '>' nrf1_seq.fa|tail -n 2|cut -f1 -d":"
+  896  head -n 3445 nrf1_seq.fa |tail -n -794
+  897  head -n 3445 nrf1_seq.fa |tail -n -793
+  898  head -n 3444 nrf1_seq.fa |tail -n -794
+  899  head -n 3444 nrf1_seq.fa |tail -n -794 |wc -c
+  900  grep -m19 -n '>' nrf1_seq.fa|tail -n 2|cut -f1 -d":"
+  901  grep -m19 -n '>' nrf1_seq.fa|tail -n 1|cut -f1 -d":"
+  902  last=grep -m19 -n '>' nrf1_seq.fa|tail -n 1|cut -f1 -d":"
+  903  last=expr `grep -m19 -n '>' nrf1_seq.fa|tail -n 1|cut -f1 -d":"`
+  904  `grep -m19 -n '>' nrf1_seq.fa|tail -n 1|cut -f1 -d":"`
+  905  head -n `grep -m19 -n '>' nrf1_seq.fa|tail -n 1 | cut -f1 -d":"`  nrf1_seq.fa |tail -n -`grep -m19 -n '>' nrf1_seq.fa|head -n 1 |cut -f1 -d":"` |wc -c
+  906  head -n `grep -m19 -n '>' nrf1_seq.fa|tail -n 1 | cut -f1 -d":"`  nrf1_seq.fa |tail -n -`grep -m19 -n '>' nrf1_seq.fa|head -n 1 |cut -f1 -d":"`
+  907  head -n `grep -m19 -n '>' nrf1_seq.fa|tail -n 1 | cut -f1 -d":"`  nrf1_seq.fa |tail -n -`grep -m19 -n '>' nrf1_seq.fa|head -n 2 |cut -f1 -d":"`
+  908  head -n `grep -m19 -n '>' nrf1_seq.fa|tail -n 1 | cut -f1 -d":"`  nrf1_seq.fa |tail -n - `grep -m19 -n '>' nrf1_seq.fa|head -n 2 |cut -f1 -d":"`
+  909  head -n `grep -m19 -n '>' nrf1_seq.fa|tail -n 1 | cut -f1 -d":"`  nrf1_seq.fa |tail -n - `grep -m19 -n '>' nrf1_seq.fa|head -n 1 |cut -f1 -d":"`
+  910  head -n `grep -m19 -n '>' nrf1_seq.fa|tail -n 1 | cut -f1 -d":"`  nrf1_seq.fa |tail -n -`grep -m19 -n '>' nrf1_seq.fa|head -n 1 |cut -f1 -d":"` |wc -c
+  911  head -n `grep -m19 -n '>' nrf1_seq.fa|tail -n 1 | cut -f1 -d":"`  nrf1_seq.fa |tail -n -`grep -m19 -n '>' nrf1_seq.fa|head -n 1 |cut -f
+  912  grep -m19 -n '>' nrf1_seq.fa|head -n 1 |cut -f1 -d":"
+  913  grep -m19 -n '>' nrf1_seq.fa|head -n 1
+  914  head nrf1_seq.fa 
+  915  grep -m19 -n '>' nrf1_seq.fa|head -n 1
+  916  grep -m19 -n '>' nrf1_seq.fa
+  917  grep -m19 -n '>' nrf1_seq.fa|tail -n 2
+  918  grep -m19 -n '>' nrf1_seq.fa|tail -n 2|head -1
+  919  head -n `grep -m19 -n '>' nrf1_seq.fa|tail -n 1 | cut -f1 -d":"`  nrf1_seq.fa |tail -n -`grep -m19 -n '>' nrf1_seq.fa|tail -n 2| head -n 1 |cut -f1 -d":"` |wc -c
+  920  history >history
+  921  cat history 
+  922  head -n `grep -m19 -n '>' nrf1_seq.fa|tail -n 1 | cut -f1 -d":"`  nrf1_seq.fa |tail -n -`grep -m19 -n '>' nrf1_seq.fa|tail -n 2| head -n 1 |cut -f1 -d":"` |wc -c
+  923  man wc
+  924  head -n `grep -m19 -n '>' nrf1_seq.fa|tail -n 1 | cut -f1 -d":"`  nrf1_seq.fa |tail -n -`grep -m19 -n '>' nrf1_seq.fa|tail -n 2| head -n 1 |cut -f1 -d":"` |wc -m
+  925  man wc
+  926  head -n `grep -m19 -n '>' nrf1_seq.fa|tail -n 1 | cut -f1 -d":"`  nrf1_seq.fa |tail -n -`grep -m19 -n '>' nrf1_seq.fa|tail -n 2| head -n 1 |cut -f1 -d":"` |wc -l
+  927  head -n `grep -m19 -n '>' nrf1_seq.fa|tail -n 1 | cut -f1 -d":"`  nrf1_seq.fa |tail -n -`grep -m19 -n '>' nrf1_seq.fa|tail -n 2| head -n 1 |cut -f1 -d":"` |grep '>'
+  928  head -n `grep -m19 -n '>' nrf1_seq.fa|tail -n 1 | cut -f1 -d":"`  nrf1_seq.fa |head -n -`grep -m19 -n '>' nrf1_seq.fa|tail -n 2| head -n 1 |cut -f1 -d":"`
+  929  head -n `grep -m19 -n '>' nrf1_seq.fa|tail -n 1 | cut -f1 -d":"`  nrf1_seq.fa |head -n -`grep -m19 -n '>' nrf1_seq.fa|tail -n 2| head -n 1 |cut -f1 -d":"` |grep '>'
+  930  man head
+  931  man tail
+  932  head -n `grep -m19 -n '>' nrf1_seq.fa|tail -n 1 | cut -f1 -d":"`  nrf1_seq.fa |tail -n +`grep -m19 -n '>' nrf1_seq.fa|tail -n 2| head -n 1 |cut -f1 -d":"` |grep '>'
+  933  head -n `grep -m19 -n '>' nrf1_seq.fa|tail -n 1 | cut -f1 -d":"`  nrf1_seq.fa |tail -n +`grep -m19 -n '>' nrf1_seq.fa|tail -n 2| head -n 1 |cut -f1 -d":"` |grep '>' |head
+  934  head -n `grep -m19 -n '>' nrf1_seq.fa|tail -n 1 | cut -f1 -d":"`  nrf1_seq.fa |tail -n +`grep -m19 -n '>' nrf1_seq.fa|tail -n 2| head -n 1 |cut -f1 -d":"` |head
+  935  head -n `grep -m19 -n '>' nrf1_seq.fa|tail -n 1 | cut -f1 -d":"`  nrf1_seq.fa |tail -n +`grep -m19 -n '>' nrf1_seq.fa|tail -n 2| head -n 1 |cut -f1 -d":"` |tail
+  936  head -n `grep -m19 -n '>' nrf1_seq.fa|tail -n 1 | cut -f1 -d":"`  nrf1_seq.fa |tail -n +`grep -m19 -n '>' nrf1_seq.fa|tail -n 2| head -n 1 |cut -f1 -d":"` |head -n -1
+  937  head -n `grep -m19 -n '>' nrf1_seq.fa|tail -n 1 | cut -f1 -d":"`  nrf1_seq.fa |tail -n +`grep -m19 -n '>' nrf1_seq.fa|tail -n 2| head -n 1 |cut -f1 -d":"` |head -n -1 |tail -n +1
+  938  head -n `grep -m19 -n '>' nrf1_seq.fa|tail -n 1 | cut -f1 -d":"`  nrf1_seq.fa |tail -n +`grep -m19 -n '>' nrf1_seq.fa|tail -n 2| head -n 1 |cut -f1 -d":"` |head -n -1 |tail -n +1|grep '>'
+  939  head -n `grep -m19 -n '>' nrf1_seq.fa|tail -n 1 | cut -f1 -d":"`  nrf1_seq.fa |tail -n +`grep -m19 -n '>' nrf1_seq.fa|tail -n 2| head -n 1 |cut -f1 -d":"` |head -n -1 |tail -n +1|head
+  940  head -n `grep -m19 -n '>' nrf1_seq.fa|tail -n 1 | cut -f1 -d":"`  nrf1_seq.fa |tail -n +`grep -m19 -n '>' nrf1_seq.fa|tail -n 2| head -n 1 |cut -f1 -d":"` |head -n -1 |tail -n +2
+  941  head -n `grep -m19 -n '>' nrf1_seq.fa|tail -n 1 | cut -f1 -d":"`  nrf1_seq.fa |tail -n +`grep -m19 -n '>' nrf1_seq.fa|tail -n 2| head -n 1 |cut -f1 -d":"` |head -n -1 |tail -n +2|head
+  942  head -n `grep -m19 -n '>' nrf1_seq.fa|tail -n 1 | cut -f1 -d":"`  nrf1_seq.fa |tail -n +`grep -m19 -n '>' nrf1_seq.fa|tail -n 2| head -n 1 |cut -f1 -d":"` |head -n -1 |tail -n +1|head
+  943  head -n `grep -m19 -n '>' nrf1_seq.fa|tail -n 1 | cut -f1 -d":"`  nrf1_seq.fa |tail -n +`grep -m19 -n '>' nrf1_seq.fa|tail -n 2| head -n 1 |cut -f1 -d":"` |head -n -1 |tail -n +1|wc -m
+  944  history 
+  945  cd EANBIT/
+  946  l
+  947  ls
+  948  cd Linux/
+  949  ls
+  950  cd da
+  951  cd Data/
+  952  ls
+  953  awk ‘BEGIN {RS=">"} /Chr2/ {print ">"$0}’ nrf1_seq.fa 
+  954  awk `BEGIN {RS=">"} /Chr2/ {print ">"$0}` nrf1_seq.fa 
+  955  awk `BEGIN {RS=">"} /Chr2/ {print ">"$0}` nrf1_seq.fa
+  956  awk `BEGIN {RS=">"} /Chr2/{print ">"$0}` nrf1_seq.fa
+  957  grep -m18 '>' nrf1_seq.fa 
+  958  awk `BEGIN {RS=">"} /AC161538.7/{print ">"$0}` nrf1_seq.fa
+  959  awk `BEGIN {RS=">"} /AC161538.7/{print ">" $0}` nrf1_seq.fa
+  960  exit
+  961  ls
+  962  cd EANBIT/
+  963  ls
+  964  printenv
+  965  clear
+  966  ls
+  967  cd Linux/
+  968  ls
+  969  cd Data/
+  970  ls
+  971  clear
+  972  ls
+  973  pwd
+  974  cd
+  975  pwd
+  976  cd -
+  977  cd 
+  978  cd -
+  979  cd ~
+  980  cd -
+  981  ls
+  982  ls -l
+  983  ls -lht
+  984  man ls
+  985  ls
+  986  touch test1
+  987  nano test1
+  988  cat test1
+  989  man cat
+  990  mkdir tmp
+  991  mkdir temp
+  992  ls
+  993  cp test1 temp/
+  994  ls temp/
+  995  ls
+  996  rm test1
+  997  ls
+  998  mkdir test
+  999  ls
+ 1000  rmdir test
+ 1001  ls
+ 1002  rmdir temp
+ 1003  rmdir -r temp
+ 1004  rm -r temp
+ 1005  ls
+ 1006  cp file1 /home/caleb/
+ 1007  cd
+ 1008  ls
+ 1009  rm file1 
+ 1010  cd -
+ 1011  ls
+ 1012  pwd
+ 1013  cp file1 ../../../
+ 1014  ls /home/caleb/
+ 1015  ls
+ 1016  head nrf1_seq.fa 
+ 1017* head nrf1_seq.fa |wc
+ 1018  less nrf1_seq.fa 
+ 1019  less -h
+ 1020  less --help
+ 1021  man
+ 1022  man less
+ 1023  ls nrf1_seq.fa 
+ 1024  less nrf1_seq.fa 
+ 1025  more nrf1_seq.fa 
+ 1026  less nrf1_seq.fa 
+ 1027  ls
+ 1028  pwd
+ 1029  ls
+ 1030  head nrf1_seq.fa 
+ 1031  less nrf1_seq.fa 
+ 1032  grep '>' nrf1_seq.fa |wc -l
+ 1033  ls
+ 1034  grep '>' nrf1_seq.fa |head
+ 1035  grep '>' nrf1_seq.fa
+ 1036  grep '>' nrf1_seq.fa|cut -f1 |head
+ 1037  grep '>' nrf1_seq.fa|cut -f1 -d" "
+ 1038  grep '>' nrf1_seq.fa|cut -f1 -d" "|cut -f2 -d">"
+ 1039  clear
+ 1040  grep '>' nrf1_seq.fa|cut -f1 -d" "|cut -f2 -d">"
+ 1041  cd .
+ 1042  ls
+ 1043  cd ..
+ 1044  wget https://www.dropbox.com/s/4ul7d3qlfr066hy/nrf1_seq.fa?dl=0
+ 1045  ls
+ 1046  mv nrf1_seq.fa\?dl\=0 nrf1_seq.fa dl\=0 
+ 1047  mv nrf1_seq.fa\?dl\=0 'nrf1_seq.fa dl\=0'
+ 1048  ls
+ 1049  ls
+ 1050  mv nrf1_seq.fa\ dl\\\=0 nrf1_seq.fa 
+ 1051  ls
+ 1052  cd Data/
+ 1053  ls
+ 1054  grep '>' nrf1_seq.fa|cut -f1 -d" "|cut -f2 -d">"
+ 1055  ls
+ 1056  grep '>' nrf1_seq.fa|cut -f1 -d" "|cut -f2 -d">"
+ 1057  grep '>' nrf1_seq.fa|cut -f1 -d" "|cut -f2 -d">"|sort|uniq
+ 1058  grep '>' nrf1_seq.fa|cut -f1 -d" "|cut -f2 -d">"|sort|uniq |wc -l
+ 1059  grep '>' nrf1_seq.fa|cut -f1 -d" "|cut -f2 -d">"|sort -u
+ 1060  grep '>' nrf1_seq.fa|cut -f1 -d" "|cut -f2 -d">"|sort -u >nrf1_ids.txt
+ 1061  ls
+ 1062  grep '>' nrf1_seq.fa|cut -f1 -d" "|cut -f2 -d">"|sort -u >nrf1_ids.txtclear
+ 1063  grep '>' nrf1_seq.fa|cut -f1 -d" "|cut -f2 -d">"|sort -u >nrf1_ids.txtclearclear
+ 1064  clear
+ 1065  grep '>' nrf1_seq.fa|cut -f1 -d" "|cut -f2 -d">"|sort -u >nrf1_ids.txt
+ 1066  grep 'mRNA' nrf1_seq.fa |wc -l
+ 1067  grep -c 'mRNA' nrf1_seq.fa |wc -l
+ 1068  grep -c 'mRNA' nrf1_seq.fa
+ 1069  man grep
+ 1070  grep -c 'mrna' nrf1_seq.fa
+ 1071  grep -c -i 'mrna' nrf1_seq.fa
+ 1072  grep -c '>' nrf1_seq.fa 
+ 1073  grep '>' nrf1_seq.fa 
+ 1074  grep '>' nrf1_seq.fa |cut -f2,3 -d" "
+ 1075  grep '>' nrf1_seq.fa |cut -f2,3 -d" "|sort -u
+ 1076  grep '>' nrf1_seq.fa |cut -f2,3 -d" "|sort -u -c
+ 1077  grep '>' nrf1_seq.fa |cut -f2,3 -d" "|sort -u|wc -l
+ 1078  cleqr
+ 1079  clear
+ 1080  grep '^>' nrf1_seq.fa > identifier_lines
+ 1081  wc -l identifier_lines 
+ 1082  cleqr
+ 1083  clear
+ 1084  grep 'PREDICTED:' identifier_lines 
+ 1085  grep 'PREDICTED:' identifier_lines  | less
+ 1086  grep 'PREDICTED:' identifier_lines  | less -S
+ 1087  grep 'PREDICTED:' identifier_lines  | cut -d ' ' -f 3,4
+ 1088  grep 'PREDICTED:' identifier_lines  | cut -d ' ' -f 3,4 | wc -l
+ 1089  grep 'PREDICTED:' identifier_lines  | cut -d ' ' -f 3,4 > genus_species
+ 1090  less -S genus_species 
+ 1091  man grep
+ 1092  grep -v 'PREDICTED:' identifier_lines 
+ 1093* grep -v 'PREDICTED:' identifier_lines | 
+ 1094  grep -v 'PREDICTED:' identifier_lines  | cut -d ' ' -f 2,3 >> genus_species
+ 1095  wc -l genus_species 
+ 1096  clear
+ 1097  sort -u genus_species | wc -l
+ 1098  clear
+ 1099  grep '^>' nrf1_seq.fa > identifier_lines
+ 1100  grep 'PREDICTED:' identifier_lines  | cut -d ' ' -f 3,4 > genus_species
+ 1101  grep -v 'PREDICTED:' identifier_lines  | cut -d ' ' -f 2,3 >> genus_species
+ 1102  sort -u genus_species | wc -l
+ 1103  ls *.fa
+ 1104  less -S nrf1_seq.fa 
+ 1105  less -S identifier_lines 
+ 1106  man bash
+ 1107  less -S identifier_lines 
+ 1108  grep "PREDICTED:" identifier_lines # greps lines
+ 1109  grep -o "PREDICTED:" identifier_lines # outputs exactly the matched strings
+ 1110  grep -o 'Mu..' identifier_lines 
+ 1111  grep -o 'Mu...' identifier_lines | less -S
+ 1112  grep -o 'mu...' identifier_lines | less -S
+ 1113  less -S identifier_lines 
+ 1114  grep -o '[0135647982] day' identifier_lines | less -S
+ 1115  # same as using a range:
+ 1116  grep -o '[0-9] day' identifier_lines | less -S
+ 1117  grep -o '[0-9]* day' identifier_lines | less -S
+ 1118  grep -o '[0-9]* days?' identifier_lines | less -S
+ 1119  egrep -o '[0-9]* days?' identifier_lines | less -S
+ 1120  grep -o '[0-9]* days\?' identifier_lines | less -S
+ 1121  man grep
+ 1122  egrep -o '[0-9]* days?' identifier_lines | less -S
+ 1123  egrep -o '[0-9]*days?' identifier_lines | less -S
+ 1124  egrep -o '[0-9]*days?' identifier_lines
+ 1125  egrep -o 'Homo' identifier_lines
+ 1126  egrep -o 'Pan' identifier_lines
+ 1127  egrep 'Pan' identifier_lines
+ 1128  egrep 'Pan|Homo' identifier_lines
+ 1129  egrep -o 'Pan|Homo' identifier_lines
+ 1130  egrep -o 'Pan|Homo [a-z]*' identifier_lines
+ 1131  egrep -o 'Pan|Homo [a-z ]*' identifier_lines
+ 1132  grep 'Homo sapiens alpha palindromic binding protein m' identifier_lines 
+ 1133  egrep -o 'Pan|Homo [a-z]*' identifier_lines
+ 1134  egrep -o '(Pan|Homo) [a-z]*' identifier_lines
+ 1135  egrep -o 'Homo sapiens' identifier_lines
+ 1136  egrep 'Homo sapiens' identifier_lines
+ 1137  egrep 'Homo sapiens&respiratory' identifier_lines
+ 1138  egrep 'Homo sapiens\&respiratory' identifier_lines
+ 1139  egrep '(Homo sapiens)&(respiratory)' identifier_lines
+ 1140  egrep 'Homo sapiens.*respiratory' identifier_lines
+ 1141  cleqr
+ 1142  clear
+ 1143  egrep 'Homo sapiens.*respiratory' identifier_lines
+ 1144  egrep 'Homo sapiens.*complete' identifier_lines
+ 1145  less -S identifier_lines 
+ 1146  egrep '[0-9]' identifier_lines
+ 1147  egrep [0-9] identifier_lines
+ 1148  egrep [A-Z][0-9] identifier_lines
+ 1149  egrep '[A-Z][0-9]' identifier_lines
+ 1150  egrep -o '[A-Z_0-9]' identifier_lines 
+ 1151  egrep -o '[A-Z_0-9]' identifier_lines | less -S
+ 1152  egrep -o '[A-Z_0-9]*' identifier_lines | less -S
+ 1153  egrep -o '[A-Z]*[0-9]' identifier_lines | less -S
+ 1154  egrep -o '[A-Z]*[0-9]*' identifier_lines | less -S
+ 1155  egrep -o '[A-Z][A-Z]*[0-9]*' identifier_lines | less -S
+ 1156  egrep -o '[A-Z][A-Z]*[0-9][0-9]*' identifier_lines | less -S
+ 1157  egrep -o '[A-Z]+[0-9]+' identifier_lines | less -S
+ 1158  egrep -o '[A-Z]+_?[0-9]+' identifier_lines | less -S
+ 1159  egrep -o '>[A-Z]+_?[0-9]+' identifier_lines | less -S
+ 1160  egrep -o '^>[A-Z]+_?[0-9]+' identifier_lines | less -S
+ 1161  egrep -o '^>[A-Z]+_?[0-9]+' identifier_lines | less -S| cut -f 2 -d ">"
+ 1162  man cut
+ 1163  egrep -o '^>[A-Z]+_?[0-9]+' identifier_lines | less -S| cut -c 2-5
+ 1164  egrep -o '^>[A-Z]+_?[0-9]+' identifier_lines | less -S| cut -c 1-5
+ 1165  egrep -o '^>[A-Z]+_?[0-9]+' identifier_lines | less -S| cut -c 2-5
+ 1166  egrep -o '^>[A-Z]+_?[0-9]+' identifier_lines | less -S| cut -c 2-
+ 1167  echo gdjgterttotwj34343,435,554,645545uyri
+ 1168  echo gdj343,435,554,645545uyri | tr -d '45'
+ 1169  echo gdj343,435,554,645545uyri | tr -d ','
+ 1170  egrep -o '^>[A-Z]+_?[0-9]+' identifier_lines | tr -d '>'
+ 1171  egrep -o '^>[A-Z]+_?[0-9]+Pan' identifier_lines | tr -d '>'
+ 1172  egrep -o '^>[A-Z]+_?[0-9]+ Pan' identifier_lines | tr -d '>'
+ 1173  egrep -o '^>[A-Z]+_?[0-9]+... Pan ' identifier_lines | tr -d '>'
+ 1174  egrep -o '^>[A-Z]+_?[0-9]+.. Pan ' identifier_lines | tr -d '>'
+ 1175  egrep -o '^>[A-Z]+_?[0-9]+.* Pan ' identifier_lines | tr -d '>'
+ 1176  egrep -o '^>[A-Z]+_?[0-9]+.* Pan ' identifier_lines | tr -d '>' | cut -d '.' -f 1
+ 1177  egrep -o '^>[A-Z]+_?[0-9]+.* Mus ' identifier_lines | tr -d '>' | cut -d '.' -f 1
+ 1178  grep Mus identifier_lines | less -S
+ 1179  myvar=5
+ 1180  mystring="Hello, John"
+ 1181  $myvar
+ 1182  5
+ 1183  echo $myvar
+ 1184  myvar = 4
+ 1185  myvar =4
+ 1186  myvar= 4
+ 1187  myvar=4
+ 1188  echo $myvar
+ 1189  echo $mystring
+ 1190  echo $mystring2
+ 1191  echo $mystring2 is a sentence
+ 1192  echo $mystring is a sentence
+ 1193  shortname=John
+ 1194  echo $shortname3
+ 1195  echo ${shortname}3
+ 1196  echo ${#shortname}
+ 1197  echo ${#mystring}
+ 1198  echo ${mystring:2}
+ 1199  echo ${mystring:2:4}
+ 1200  ls
+ 1201  ls nrf1*
+ 1202  filename="nrf1_ids.txtclear"
+ 1203  echo $filename
+ 1204  echo ${filename#nrf1}
+ 1205  echo ${filename#nrf1_}
+ 1206  for filename in nrf1* ; do echo ${filename#nrf1_}; done
+ 1207  cleqr
+ 1208  clear
+ 1209  ls nrf1*
+ 1210  for filename in nrf1* ; do echo ${filename#nrf1_}; done
+ 1211  removing a substring from beginning of string: echo ${mystring#pattern}
+ 1212  ls
+ 1213  history
+ 1214  clear
+ 1215  nano myscript.sh
+ 1216  ls
+ 1217  nano myscript.sh
+ 1218  echo Mpenda, Please come to my party
+ 1219  nano myscript.sh
+ 1220  ls
+ 1221  bash myscript.sh 
+ 1222  chmod +x myscript.sh 
+ 1223  ls
+ 1224  ./myscript.sh 
+ 1225  nano myscript.sh
+ 1226  which bash
+ 1227  nano myscript.sh
+ 1228  ./myscript.sh 
+ 1229  nano myscript.sh
+ 1230  ./myscript.sh 
+ 1231  nano myscript.sh
+ 1232  ./myscript.sh 
+ 1233  ls
+ 1234  nano myscript.sh
+ 1235  which bash
+ 1236  for fasta in *fa*; do echo grep '>' $fasta |wc -l; ;done
+ 1237  for fasta in *fa*; do echo grep '>' $fasta |wc -l; done
+ 1238  for fasta in *fa*; do echo `grep '>' $fasta |wc -l`; done
+ 1239  ls
+ 1240  mv PlasmoDB-9.0_Pfalciparum_BarcodeIsolates.fasta PlasmoDB-9.0_Pfalciparum_BarcodeIsolates.fa
+ 1241  ls
+ 1242  nano count_seq.sh
+ 1243* 
+ 1244  nano count_seq.sh
+ 1245  chmod +x count_seq.sh
+ 1246  ./count_seq.sh 
+ 1247  nano count_seq.sh
+ 1248  ./count_seq.sh 
+ 1249  nano count_seq.sh
+ 1250  cat count_seq.sh 
+ 1251  nano count_seq.sh
+ 1252  ./count_seq.sh 
+ 1253  nano count_seq.sh
+ 1254  ./count_seq.sh 
+ 1255  nano count_seq.sh
+ 1256  ./count_seq.sh 
+ 1257  nano while_loop.sh
+ 1258  n=1
+ 1259  echo $n<=5
+ 1260  echo `$n<=5`
+ 1261  expr [$n<=5]
+ 1262  nano while_loop.sh
+ 1263  chmod +x while_loop.sh 
+ 1264  ./while_loop.sh 
+ 1265  nano while_loop.sh
+ 1266  ./while_loop.sh 
+ 1267  nano while_loop.sh
+ 1268  ./while_loop.sh 
+ 1269  nano while_loop.sh
+ 1270  ./while_loop.sh 
+ 1271  nano while_loop.sh
+ 1272  ./while_loop.sh 
+ 1273  nano while_loop.sh
+ 1274  ./while_loop.sh 
+ 1275  nano while_loop.sh
+ 1276  pwd
+ 1277  wget ftp://ftp.phylomedb.org/phylomedb/phylomes/phylome_0170/best_trees.txt.gz
+ 1278  clear
+ 1279  ls -l
+ 1280  gunzip best_trees.txt.gz 
+ 1281  ls best_trees.txt 
+ 1282  less -S best_trees.txt 
+ 1283  wc -l best_trees.txt 
+ 1284  less -S best_trees.txt 
+ 1285  sort best_trees.txt | head
+ 1286  sort best_trees.txt | head | less -S
+ 1287  man sort
+ 1288  less -S best_trees.txt 
+ 1289  man sort
+ 1290  sort -k3,3g best_trees.txt | less -S
+ 1291  man sort
+ 1292  sort -k3,3gr best_trees.txt | less -S
+ 1293   less -S best_trees.txt 
+ 1294  sed 's/Dayhoff/DF/' best_trees.txt 
+ 1295  sed 's/Dayhoff/DF/' best_trees.txt > output
+ 1296  less output 
+ 1297  less -S output 
+ 1298  vim test
+ 1299  cat test
+ 1300  cleat
+ 1301  clear
+ 1302  sed 's/Dayhoff/DF/' test
+ 1303  sed 's/Dayhoff/DF/g' test
+ 1304  awk '{print $2}' best_trees.txt 
+ 1305  awk '{print $2}' best_trees.txt | sort | uniq -c
+ 1306  awk '$2=="MtREV" {print $1}' best_trees.txt
+ 1307  awk '$2=="MtREV" {print $1, $3}' best_trees.txt
+ 1308  less best_trees.txt 
+ 1309  less -S best_trees.txt 
+ 1310  grep -c Phy004ANAQ_99287 best_trees.txt 
+ 1311  awk '/Phy004ANAQ_99287/ {print $1}' best_trees.txt
+ 1312  awk '$3 ~ /Phy004ANAQ_99287/ {print $1}' best_trees.txt
+ 1313  awk '$4 ~ /Phy004ANAQ_99287/ {print $1}' best_trees.txt
+ 1314  awk '$4 ~ /Phy004ANAQ_992[0-9]7/ {print $1}' best_trees.txt
+ 1315  awk '$4 ~ /Phy004ANAQ/ {print $1}' best_trees.txt
+ 1316  awk '$4 ~ /Phy004/ {print $1}' best_trees.txt
+ 1317  awk '$4 ~ /Phy004ANAQ/ {print $1}' best_trees.txt
+ 1318  awk '$4 ~ /Phy00[4-9]ANAQ/ {print $1}' best_trees.txt
+ 1319  awk '$4 ~ /Phy00[4-9]A/ {print $1}' best_trees.txt
+ 1320  awk '$4 ~ /Phy004A/ {print $1}' best_trees.txt
+ 1321  less best_trees.txt
+ 1322  less -S best_trees.txt
+ 1323  cleqr
+ 1324  clear
+ 1325  # check with awk that all lines have exactly four fields
+ 1326  awk 'NF != 4 { print "Warning! Line " NR "does not have 4 fields"}' best_trees.txt 
+ 1327  awk 'NF != 4 { print "Warning! Line " NR " does not have 4 fields." }' best_trees.txt 
+ 1328  awk '{ print NF }' best_trees.txt | sort | uniq -c
+ 1329  wc -l best_trees.txt 
+ 1330  # to change the field separator: option -F
+ 1331  awk -F, '{ print NF }' best_trees.txt | sort | uniq -c
+ 1332  awk -F, '{ print NF }' best_trees.txt | less -S
+ 1333  awk '$1 ~ /,/ { print }' best_trees.txt 
+ 1334  awk '$4 ~ /,/ { print }' best_trees.txt 
+ 1335  awk -F, '{ print "Tree", $1, "contains", NF, "taxa." }' best_trees.txt | less
+ 1336  awk -F, '{ print "Tree", $1, "contains", NF, "taxa." }' best_trees.txt | less -S 
+ 1337  awk -F, '{ print "Tree", substr($1,1,16), "contains", NF, "taxa." }' best_trees.txt | less -S 
+ 1338  grep Phy001VK96_HAEIN best_trees.txt 
+ 1339  awk -F, '{ print $NF }' best_trees.txt | less -S
+ 1340  awk -F, '{ print $NF-1 }' best_trees.txt | less -S
+ 1341  awk -F, '{ print $(NF-1) }' best_trees.txt | less -S
+ 1342  awk -F, '{ print "Tree", substr($1,1,16), "contains", NF, "taxa." }' best_trees.txt | less -S 
+ 1343  awk -F, '{ print "hello" "you" }' best_trees.txt | less -S
+ 1344  awk -F, '{ print substr($1,1,16) NF }' best_trees.txt | less
+ 1345  awk -F, '{ print substr($1,1,16) "\t" NF }' best_trees.txt | less
+ 1346  echo '{ print substr($1,1,16) "\t" NF }' > script1.awk
+ 1347  cat script1.awk 
+ 1348  # how do I call this script?
+ 1349  awk -f script1.awk best_trees.txt | less
+ 1350  cat script1.awk 
+ 1351  awk -f script1.awk best_trees.txt | less -S
+ 1352  awk -f script1.awk -F, best_trees.txt | less
+ 1353  vim script1.awk 
+ 1354  awk -f script1.awk  best_trees.txt | less
+ 1355  less -S nrf1_seq.fa 
+ 1356  touch script_counting_nucleotides.awk
+ 1357  vim script_counting_nucleotides.awk 
+ 1358  awk -f script_counting_nucleotides.awk nrf1_seq.fa | less -S
+ 1359  vim script_counting_nucleotides.awk 
+ 1360  awk -f script_counting_nucleotides.awk nrf1_seq.fa | less -S
+ 1361  grep '>' nrf1_seq.fa | tail
+ 1362  vim script_counting_nucleotides.awk 
+ 1363  awk -f script_counting_nucleotides.awk nrf1_seq.fa | less -S
+ 1364  vim script_counting_nucleotides.awk 
+ 1365  awk -f script_counting_nucleotides.awk nrf1_seq.fa | less -S
+ 1366  head -n 1 nrf1_seq.fa 
+ 1367  awk -f script_counting_nucleotides.awk nrf1_seq.fa | less -S
+ 1368  awk -f script_counting_nucleotides.awk nrf1_seq.fa | wc -l
+ 1369  grep -c '^>' nrf1_seq.fa 
+ 1370  vim script_counting_nucleotides.awk 
+ 1371  ls
+ 1372  history
+ 1373  history > advanced_linux_history.txt

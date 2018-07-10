@@ -1,0 +1,1000 @@
+   39  grep '>' nrf1_seq.fa | cut -f1 -d' '|cut -c 2
+   40  grep '>' nrf1_seq.fa | cut -f1 -d' '|cut -c 1
+   41  grep '>' nrf1_seq.fa | cut -f1 -d','
+   42  grep '>' nrf1_seq.fa | cut -f2 -d','
+   43  grep '>' nrf1_seq.fa | cut -f3 -d','
+   44  echo test
+   45  echo test >file1
+   46  ls
+   47  cat file1 
+   48  echo test\n >file1
+   49  cat file1 
+   50  echo test\ >file1
+   51  cat file1 
+   52  ls
+   53  echo "Bioinformatics is great \n start writing scripts"
+   54  echo -e "Bioinformatics is great \n start writing scripts"
+   55  echo -e "Bioinformatics is great\n start writing scripts"
+   56  echo -e "Bioinformatics is great \nstart writing scripts"
+   57  man echo
+   58  echo -e "Bioinformatics is great \tstart writing scripts"
+   59  man echo
+   60  ls
+   61  ls \home
+   62  ls
+   63  ls /home/
+   64  ls
+   65  source activate icipe-env
+   66  ls
+   67  jupyter lab --no-browser
+   68  ls
+   69  jupyter lab --no-browser
+   70  ls
+   71  locate test
+   72  ls
+   73  cd EANBIT/
+   74  ls
+   75  cd Linux/Data/
+   76  ls
+   77  head nrf1_seq.fa 
+   78  more nrf1_seq.fa 
+   79  grep '>' nrf1_seq.fa 
+   80  ls
+   81  cd
+   82  pwd
+   83  l
+   84  ls
+   85  cd EANBIT/
+   86  ls
+   87  cd Linux/
+   88  ls
+   89  cd Data/
+   90  ls
+   91  ls tmp/
+   92  cd tmp/PlasmoDB-9.0_Pfalciparum_BarcodeIsolates.fasta  .
+   93  cp tmp/PlasmoDB-9.0_Pfalciparum_BarcodeIsolates.fasta  .
+   94  ls
+   95  cd ..
+   96  ls
+   97  cd Python/
+   98  ls
+   99  mkdir Code
+  100  ls
+  101  cd Code/
+  102  ls
+  103  clone https://github.com/kipkurui/Python4Bioinformatics.git
+  104  git clone https://github.com/kipkurui/Python4Bioinformatics.git
+  105  ls
+  106  cd Python4Bioinformatics/
+  107  ls
+  108  cd Intro-to-Python/
+  109  ls
+  110  cd ..
+  111  ls
+  112  cd ..
+  113  ls
+  114  source activate icipe-env
+  115  jupyter lab --no-browser
+  116  cd EANBiT/
+  117  ls
+  118  cd Python/
+  119  lls
+  120  ls
+  121  cd Python
+  122  cd Python4Bioinfo/
+  123  ls
+  124  git status
+  125  ls
+  126  conda list
+  127  ls
+  128  cd miniconda3/
+  129  ls
+  130  cd bin/
+  131  ls
+  132  cd ..
+  133  ls
+  134  cd envs/
+  135  ls
+  136  cd icipe-env/
+  137  ls
+  138  cd bin/
+  139  ls
+  140  cd
+  141  ls
+  142  source activate icipe-env
+  143  sudo jupyter labhub
+  144  ls
+  145   exit
+  146  ls
+  147  source activate icipe-env
+  148  jupyter lab --no-browser
+  149  cd
+  150  ls
+  151  pwdd
+  152  pwd
+  153  python
+  154  ls
+  155  ls
+  156  cd EANBiT/
+  157  ls
+  158  cd Python/
+  159  ls
+  160  cd Python
+  161  cd Python4Bioinfo/
+  162  ls
+  163  git status
+  164  git add Intro-to-Python/00.ipynb 
+  165  git add README.md 
+  166  ls
+  167  git commit -m'updating installation instructions'
+  168  git push
+  169  ls
+  170  cd ../../../EANBIT/
+  171  ls
+  172  cd Python/
+  173  ls
+  174  cd Code/
+  175  ls
+  176  git fetch https://github.com/kipkurui/Python4Bioinformatics.git
+  177  git status
+  178  cd Python4Bioinformatics/
+  179  git status
+  180  git fetch
+  181  ls
+  182  git statu
+  183  git status
+  184  cd
+  185  cd EANBiT/
+  186  ls
+  187  cd Python/
+  188  ls
+  189  cd Python
+  190  cd Python4Bioinfo/
+  191  ls
+  192  git status
+  193  git add README.md 
+  194  git commit -m'Further updates to installation'
+  195  git  push
+  196  ls
+  197  cd ..
+  198  ls
+  199  cd Python4Bioinfo/
+  200  ls
+  201  git fetch
+  202  ls
+  203  pwd
+  204  cd ..
+  205  cd
+  206  cd EANBIT/
+  207  ls
+  208  cd Python/Code/Python4Bioinformatics/
+  209  ls
+  210  git status
+  211  git fetch
+  212  ls
+  213  python
+  214  python
+  215  source acctivate icipe-env
+  216  source activate icipe-env
+  217  jupyter lab --no-browser
+  218  conda list
+  219  source activate icipe-env
+  220  cd EANBIT/
+  221  jupyter lab --no-browser
+  222  ls
+  223  cd EANBiT/
+  224  ls
+  225  cd Python/
+  226  ls
+  227  source activate icipe-env
+  228  ls
+  229  jupyter lab --no-browser
+  230  ls
+  231  pwd
+  232  ls
+  233  pwd
+  234  cd EANBiT/
+  235  ls
+  236  cd Python/
+  237  ls
+  238  cd Python
+  239  cd Python4Bioinfo/
+  240  ls
+  241  git status
+  242  git add Intro-to-Python/00.ipynb 
+  243  git add Intro-to-Python/01.ipynb 
+  244  git add Intro-to-Python/02.ipynb 
+  245  git add README.md 
+  246  git status
+  247  git add Intro-to-Python/00.ipynb 
+  248  git status
+  249  git commit -m'Harmonized instructions'
+  250  git push
+  251  ls
+  252  source activate icipe-env
+  253  ls
+  254  jupyter lab
+  255  jupyter lab --no-browser
+  256  exit
+  257  ls
+  258  source activate icipe-env
+  259  jupyter lab --no-browser
+  260  cd Obiero/
+  261  ls
+  262  conda install -c etetoolkit ete3 ete_toolchain
+  263  ete3 build check
+  264  l
+  265  ls
+  266  paml
+  267  ls
+  268  conda install -c bioconda paml
+  269  paml
+  270  codeml
+  271  ls
+  272  paml
+  273  ls
+  274  pamlm
+  275  paml
+  276  source activate icipe-env
+  277  jupyter lab --no-browser
+  278  ls
+  279  source activate icipe-env
+  280  jupyter lab --no-browser
+  281  ls
+  282  cd Obiero/
+  283  ls
+  284  wget https://www.ebi.ac.uk/Tools/services/rest/emboss_backtranseq/result/emboss_backtranseq-I20180617-152012-0807-33643867-p2m/out
+  285  ls
+  286  mv out 
+  287  mv out A.compressa_annotated_ORs_nuc_bt.fasta
+  288  ls
+  289  modules
+  290  module
+  291  module list
+  292  module av
+  293  module load muscle
+  294  muscle --help
+  295  source activate icipe-env
+  296  ls
+  297  jupyter lab --no-browser
+  298  module load muscle
+  299  muscle --help
+  300  cd Obiero/
+  301  ls
+  302  muscle -in A.compressa_annotated_ORs_nuc_bt.fasta A.compressa_annotated_ORs_tree.fasta
+  303  muscle -in A.compressa_annotated_ORs_nuc_bt.fasta -out A.compressa_annotated_ORs_tree.fasta
+  304  ls
+  305  source activate icipe-env
+  306  jupyter lab --no-browser
+  307  ls
+  308  source activate icipe-env
+  309  mkdir Obiero
+  310  ls
+  311  jupyter lab --no-browser
+  312  AchameJeso@15
+  313  ls
+  314  source activate icipe-env
+  315  jupyter lab --no-brwser
+  316  jupyter lab --no-browser
+  317  ls
+  318  cd Obiero/
+  319  ls
+  320  module load muscle
+  321  muscle -in A.compressa_annotated_ORs_nuc_bt.fasta -out A.compressa_annotated_ORs_tree.fasta
+  322  ls
+  323  module av
+  324  source activate icipe-env
+  325  jupyter lab --no-browser
+  326  exit
+  327  ls
+  328  cd Obiero/
+  329  ls
+  330  mv A.compressa_annotated_ORs_tree.fasta A.compressa_annotated_ORs_aln.txt
+  331  mv A.compressa_annotated_ORs_tree2.fasta A.compressa_annotated_ORs_tree.txt
+  332  lsls
+  333  ls
+  334  mv A.compressa_annotated_ORs_tree2.txt A.compressa_annotated_ORs_tree.txt 
+  335  ls
+  336  mv untitled.txt codeml.ctl
+  337  ls
+  338  ]
+  339  exit
+  340  ls
+  341  source activate icipe-env
+  342  jupyter lab --no-browser
+  343  exit
+  344  du -sh
+  345  myquota
+  346  top
+  347  cat /proc/meminfo 
+  348  sinfo
+  349  sinfo -a
+  350  parallel
+  351  parallel -h
+  352  lshw
+  353  cat /proc/cpuinfo
+  354  exit
+  355  sudo
+  356  sudo apt-get install ls
+  357  sudo yum install ls
+  358  ls
+  359  cd 
+  360  cd EANBiT/
+  361  ls
+  362  exit
+  363  ls
+  364  ls /home/
+  365  sudo useradd trainer1
+  366  sudo useradd -d /home/trainer1 -m trainer1
+  367  cd /home/trainer1/
+  368  sudo passwd trainer1
+  369  ls
+  370  cd /home/
+  371  ls
+  372  exit
+  373  ls
+  374  source activate py27
+  375  ls
+  376  cd Accreditation/RNASeq/Code/
+  377  ls
+  378  exit
+  379  test
+  380  ls
+  381  cd Accreditation/
+  382  ls
+  383  cd RNASeq/
+  384  ls
+  385  exit
+  386  move
+  387  exit
+  388  ls
+  389  cd Careen/QPhred_20/
+  390  ls
+  391  cp /tmp/QPhred_20/ ../
+  392  l
+  393  cd ..
+  394  ls
+  395  rm -r QPhred_20/
+  396  ls
+  397  cp /tmp/QPhred_20/ ./
+  398  cp -r /tmp/QPhred_20/ ./
+  399  ls
+  400  cd QPhred_20/
+  401  ls
+  402  less Lav1_1.fastq_trim_2.fq2.filt_Gmm.arf 
+  403  cd ../BED/
+  404  ls
+  405  head Adfem2_Gmm_arf.bed 
+  406  head Gmm_non_coding_annotated_tblout.bed 
+  407  head Adfem2_Gmm_arf.bed 
+  408  conda install -c bioconda cufflinks
+  409  tmux
+  410  exit
+  411  ls
+  412  cd Accreditation/
+  413  ls
+  414  cd RNASeq/
+  415  ls
+  416  cd Results/
+  417  ls
+  418  cd QC/
+  419  ls
+  420  python ../../Code/fastqc_summarizer.py 
+  421  ls
+  422  cat all_mod_scores.csv 
+  423  python ../../Code/fastqc_summarizer.py 
+  424  ls
+  425  python ../../Code/fastqc_summarizer.py 
+  426  conda install pandas
+  427  conda install seaborn
+  428  python ../../Code/fastqc_summarizer.py 
+  429  ls
+  430  cd /opt/data/accreditation
+  431  ls
+  432  cd training/
+  433  ls
+  434  cd ../bin/
+  435  ls
+  436  cd ..
+  437  ls
+  438  cd training/\
+  439  ls
+  440  cd ..
+  441  ls
+  442  cd vowino/
+  443  ls
+  444  cd F16FTSEUHT0840_MONyxaR/
+  445  ls
+  446  cd clean_reads/
+  447  ls
+  448  cd Fastqc_stats/
+  449  ls
+  450  cd fastqc_aggregate.sh 
+  451  cd fq_aggregated/
+  452  ls
+  453  cd adapter_content/
+  454  ls
+  455  cd ..
+  456  ls
+  457  cat statistics.txt 
+  458  cat summary.txt 
+  459  cd ..
+  460  ls
+  461  cd ..
+  462  ls
+  463  cd Tophat/
+  464  ls
+  465  cd ..
+  466  ls
+  467  cd 701-B12/
+  468  ls
+  469  cd ..
+  470  ;s
+  471  ls
+  472  cd ..
+  473  ls
+  474  cd 719-dataset/
+  475  ls
+  476  cd ..
+  477  ls
+  478  cd clean_reads/
+  479  ls
+  480  cd ..
+  481  ls
+  482  cd ..
+  483  ls
+  484  cd ..
+  485  ls
+  486  cd ingeno/
+  487  ls
+  488  cd accreditation/
+  489  ls
+  490  cd training/
+  491  ls
+  492  cat script.sh 
+  493  ls
+  494  cd seqs/
+  495  ls
+  496  cd fastqs/
+  497  ls
+  498  cd ../..
+  499  ls
+  500  cat out.txt 
+  501  cd
+  502  ls
+  503  cd Accreditation/
+  504  ls
+  505  cd RNASeq/
+  506  ls
+  507  cd Code/
+  508  ls
+  509  ./run_qc.sh 
+  510  cd ../Data/
+  511  ls
+  512  mkdir hg38
+  513  cd hg38/
+  514  lws
+  515  ls
+  516  wget ftp://ftp.ensembl.org/pub/release-92/gtf/homo_sapiens/Homo_sapiens.GRCh38.92.gtf.gz
+  517  ls
+  518  wget ftp://ftp.ensembl.org/pub/release-92/gff3/homo_sapiens/Homo_sapiens.GRCh38.92.chr.gff3.gz
+  519  wget ftp://ftp.ensembl.org/pub/release-92/fasta/homo_sapiens/dna/Homo_sapiens.GRCh38.dna.primary_assembly.fa.gz
+  520  ls
+  521  L
+  522  cd /etc/opt
+  523  ls
+  524  cd /etc/
+  525  ls
+  526  cd
+  527  cd /tmp/
+  528  ls
+  529  mkdir Careen
+  530  ls
+  531  cd
+  532  mkdir Careen
+  533  ls
+  534  cd Careen/
+  535  ls
+  536  cp -r /tmp/QPhred_20/ ./
+  537  ls
+  538  cd QPhred_20/
+  539  ls
+  540  head Adfem2_1.fastq_trim_2.fq2.filt_2.fa 
+  541  ls
+  542  cd ..
+  543  ls
+  544  rename
+  545  man rename
+  546  ls
+  547  cd /tmp/QPhred_20/
+  548  ls
+  549  less Glossina-morsitans-Yale_SCAFFOLDS_GmorY1.fasta.tblout 
+  550  less Glossina-morsitans-Yale_SCAFFOLDS_GmorY1.fasta.cmscan 
+  551  less Glossina-morsitans-Yale_SCAFFOLDS_GmorY1.fasta.tblout 
+  552  cut -f2
+  553  cut -f2 
+  554  cut -f2 Glossina-morsitans-Yale_SCAFFOLDS_GmorY1.fasta.tblout |head
+  555  cut -f2 -d" " Glossina-morsitans-Yale_SCAFFOLDS_GmorY1.fasta.tblout |head
+  556  cut -f4 -d" " Glossina-morsitans-Yale_SCAFFOLDS_GmorY1.fasta.tblout |head
+  557  tail -n 23 Glossina-morsitans-Yale_SCAFFOLDS_GmorY1.fasta.tblout |head
+  558  tail -n 23 Glossina-morsitans-Yale_SCAFFOLDS_GmorY1.fasta.tblout |cut -f2 
+  559  tail -n 23 Glossina-morsitans-Yale_SCAFFOLDS_GmorY1.fasta.tblout |cut -f21
+  560  tail -n 23 Glossina-morsitans-Yale_SCAFFOLDS_GmorY1.fasta.tblout |cut -f2 -d" "
+  561  tail -n 23 Glossina-morsitans-Yale_SCAFFOLDS_GmorY1.fasta.tblout |cut -f4 -d" "
+  562  tail -n 23 Glossina-morsitans-Yale_SCAFFOLDS_GmorY1.fasta.tblout |cut -f6 -d" "
+  563  tail -n 23 Glossina-morsitans-Yale_SCAFFOLDS_GmorY1.fasta.tblout
+  564  less Glossina-morsitans-Yale_SCAFFOLDS_GmorY1.fasta.tblout 
+  565  cut -f1 Glossina-morsitans-Yale_SCAFFOLDS_GmorY1.fasta.tblout 
+  566  head -100 Glossina-morsitans-Yale_SCAFFOLDS_GmorY1.fasta.tblout |cut -f2
+  567  head -100 Glossina-morsitans-Yale_SCAFFOLDS_GmorY1.fasta.tblout |cut -f2 -d" "
+  568  head -100 Glossina-morsitans-Yale_SCAFFOLDS_GmorY1.fasta.tblout |cut -f3 -d" "
+  569  head -100 Glossina-morsitans-Yale_SCAFFOLDS_GmorY1.fasta.tblout |cut -f12 -d" "
+  570  head -100 Glossina-morsitans-Yale_SCAFFOLDS_GmorY1.fasta.tblout |cut -f5 -d" "
+  571  head -100 Glossina-morsitans-Yale_SCAFFOLDS_GmorY1.fasta.tblout |cut -f6 -d" "
+  572  head -100 Glossina-morsitans-Yale_SCAFFOLDS_GmorY1.fasta.tblout |cut -f7 -d" "
+  573  head -100 Glossina-morsitans-Yale_SCAFFOLDS_GmorY1.fasta.tblout |cut -f9 -d" "
+  574  head -100 Glossina-morsitans-Yale_SCAFFOLDS_GmorY1.fasta.tblout |cut -f1 -d" "
+  575  head -100 Glossina-morsitans-Yale_SCAFFOLDS_GmorY1.fasta.tblout
+  576  head -100 Glossina-morsitans-Yale_SCAFFOLDS_GmorY1.fasta.tblout |cut -f5 -d" "
+  577  head -100 Glossina-morsitans-Yale_SCAFFOLDS_GmorY1.fasta.tblout |cut -f10 -d" "
+  578  head -100 Glossina-morsitans-Yale_SCAFFOLDS_GmorY1.fasta.tblout |cut -f11 -d" "
+  579  ls
+  580  less Lav1_1.fastq_trim_2.fq2.filt_2.arf 
+  581  cut -f2 Lav1_1.fastq_trim_2.fq2.filt_2.arf |head
+  582  cut -f1 Lav1_1.fastq_trim_2.fq2.filt_2.arf |head
+  583  cut -f4 Lav1_1.fastq_trim_2.fq2.filt_2.arf |head
+  584  cut -f6 Lav1_1.fastq_trim_2.fq2.filt_2.arf |head
+  585  cut -f6,7 Lav1_1.fastq_trim_2.fq2.filt_2.arf |head
+  586  cut -f6,9 Lav1_1.fastq_trim_2.fq2.filt_2.arf |head
+  587  cut -f6,8,9 Lav1_1.fastq_trim_2.fq2.filt_2.arf |head
+  588  cut -f6,8,9,7 Lav1_1.fastq_trim_2.fq2.filt_2.arf |head
+  589  man cut
+  590  cd
+  591  cd Accreditation/
+  592  ls
+  593  cd RNASeq/
+  594  ls
+  595  cd Results/
+  596  ls
+  597  cd Trim_QC/
+  598  ls
+  599  python ../../Code/fastqc_summarizer.py 
+  600  ls
+  601  cd ..
+  602  ls
+  603  rm sample37_R1_*
+  604  ls
+  605  rm -r sample37_R1_*
+  606  ls
+  607  cd ../Data/
+  608  ls
+  609  mkdir test
+  610  ls
+  611  rmdir test/
+  612  ls
+  613  mkdir Practice
+  614  ls
+  615  mv sample* Practice/
+  616  ls
+  617  mv practice.dataset.metadata.tsv Practice/
+  618  ls
+  619  cd hg38/
+  620  ls
+  621  gunzip Homo_sapiens.GRCh38.dna.primary_assembly.fa.gz 
+  622  ls
+  623  gunzip Homo_sapiens.GRCh38.92.chr.gff3.gz 
+  624  ls
+  625  cd ../../Code/
+  626  ls
+  627  mv Homo_sapiens.GRCh38.dna.primary_assembly.* ../Data/hg38/
+  628  ls
+  629  conda install -c bioconda tophat
+  630  module load tophat
+  631  tophat
+  632  module load tophat2/2.1.1
+  633  module load tophat2
+  634  tophat
+  635  conda create -n py27 python=2.7
+  636  conda activate py27
+  637  ls
+  638  tmux
+  639  cd 
+  640  cd Careen/
+  641  ls
+  642  cd QPhred_20/
+  643  ls
+  644  Glossina-morsitans-Yale_SCAFFOLDS_GmorY1.fasta.tblout 
+  645  ls -a
+  646  ls -l
+  647  ls
+  648  cd 
+  649  ls
+  650  \cd Careen/QPhred_20/
+  651  ls
+  652  ls -l
+  653  clear
+  654  cd ..
+  655  ls
+  656  cd BED/
+  657  ls
+  658  conda install -c bioconda pybedtools
+  659  bedtools 
+  660  bedtools intersect
+  661  bedtools intersect Adfem2_Gmm_arf.bed Gmm_non_coding_annotated_tblout.bed |head
+  662  bedtools intersect
+  663  bedtools intersect -a Adfem2_Gmm_arf.bed -b Gmm_non_coding_annotated_tblout.bed |head
+  664  bedtools intersect -a Adfem2_Gmm_arf.bed -b Gmm_non_coding_annotated_tblout.bed |wc -l
+  665  wc -l Adfem2_Gmm_arf.bed 
+  666  wc -l Gmm_non_coding_annotated_tblout.bed 
+  667  ls
+  668  ls -l
+  669  bedtools intersect -a Adfem2_Gmm_arf.bed -b Gmm_non_coding_annotated_tblout.bed |wc -l
+  670  cat -t Gmm_non_coding_annotated_tblout.bed 
+  671  cat -t Gmm_non_coding_annotated_tblout.bed |head
+  672  cat -t Adfem2_Gmm_arf.bed | head
+  673  bedtools intersect -a Adfem2_Gmm_arf.bed -b Gmm.bed |wc -l
+  674  ls
+  675  cut -f1,2,3 Gmm.bed >Gmm_2.bed
+  676  ls
+  677  bedtools intersect -a Adfem2_Gmm_arf.bed -b Gmm_2.bed |wc -l
+  678  bed12ToBed6 Gmm_2.bed |head
+  679  bed12ToBed6 -n Gmm_2.bed |head
+  680  bed12ToBed6 -n -i Gmm_2.bed |head
+  681  ls
+  682  bed12ToBed6 -n -i test.bed |head
+  683  bedtools intersect -a Adfem2_Gmm_arf.bed -b test.bed |wc -l
+  684  bedtools intersect -a Adfem2_Gmm_arf.bed -b test.bed |head
+  685  bedtools intersect -a test.bed -b Adfem2_Gmm_arf.bed |head
+  686  bedtools intersect -a test.bed -b Adfem2_Gmm_arf.bed |wc -l
+  687  bedtools intersect -wa -a test.bed -b Adfem2_Gmm_arf.bed |wc -l
+  688  bedtools intersect -wb -a test.bed -b Adfem2_Gmm_arf.bed |wc -l
+  689  bedtools intersect -wb -a test.bed -b Adfem2_Gmm_arf.bed
+  690  bedtools intersect -wb -a test.bed -b Adfem2_Gmm_arf.bed |head
+  691  bedtools intersect -wa -a test.bed -b Adfem2_Gmm_arf.bed |head
+  692  bedtools intersect -wa -v -a test.bed -b Adfem2_Gmm_arf.bed |wc -l
+  693  bedtools intersect -wb -v -a test.bed -b Adfem2_Gmm_arf.bed |wc -l
+  694  bedtools intersect  -v -a test.bed -b Adfem2_Gmm_arf.bed |wc -l
+  695  bedtools intersect  -v -a Adfem2_Gmm_arf.bed -b test.bed |wc -l
+  696  bedtools intersect  -a Adfem2_Gmm_arf.bed -b test.bed |wc -l
+  697  wc -l Adfem2_Gmm_arf.bed 
+  698  bedtools intersect  -a Adfem2_Gmm_arf.bed -b test.bed |head
+  699  bedtools intersect  -wo -a Adfem2_Gmm_arf.bed -b test.bed |head
+  700  bedtools intersect  -wo -a Adfem2_Gmm_arf.bed -b test.bed |less
+  701  exit
+  702  cd Accreditation/RNASeq/Code/
+  703  ls
+  704  conda install -c bioconda tophat
+  705  ls
+  706  cp fastqc_summarizer.py /tmp/QPhred_20/
+  707  cp fastqc_summarizer.py /tmp
+  708  ls
+  709  cd ../Results/Trim_QC/
+  710  ls
+  711  source activate py27
+  712  jupyter lab --no-browser
+  713  conda install jupyter
+  714  jupyter lab --no-browser
+  715  conda install -c conda-forge jupyterlab
+  716  jupyter lab --no-browser
+  717  exit
+  718  ls
+  719   echo 79BD311D && /usr/bin/env && echo CB903F36
+  720  cd Accreditation/
+  721  ls
+  722  cd RNASeq/
+  723  ls
+  724  cd Code/
+  725  ls
+  726   echo 11FE0769 && /usr/bin/env && echo 7657F06B
+  727  ls
+  728   echo 11FE0769 && /usr/bin/env && echo 7657F06B
+  729  source activate py27
+  730  jupyter lab
+  731  o9& urbnev && echo 7657F06B
+  732  l
+  733  echo 11FE0769 && /usr/bin/env && echo 7657F06B
+  734  Bexqqqquit
+  735  uit echo 11FE0769 && /usr/bin/env && echo 7657F06B
+  736   echo 11FE0769 && /usr/bin/env && echo 7657F06B
+  737  ls
+  738  cd Accreditation/
+  739  cd RNASeq/
+  740  ls
+  741  cd Results/
+  742  ls
+  743  cd Cufflinks/
+  744  ls
+  745  cd sample
+  746  cd sample37
+  747  ls
+  748  cd ..
+  749  ls
+  750  cd sample40
+  751  ls
+  752  cd ..
+  753  ls
+  754  cd ..
+  755  ls
+  756  cd TopHat/
+  757  ls
+  758  cd sample37
+  759  ls
+  760  cd
+  761  tmux -h
+  762  man tmux
+  763  source activate py27
+  764  jupyter lab --no-browser
+  765  ls
+  766  cd Accreditation/
+  767  ls
+  768  cd RNASeq/
+  769  ls
+  770  exi
+  771  exit
+  772  source activate iccipe-env
+  773  source activate icipe-env
+  774  jupyter lab --no-browser
+  775  ls
+  776  cd EANBiT/
+  777  ls
+  778  cd Python/
+  779  ls
+  780  cd Python
+  781  cd Python4Bioinfo/
+  782  ls
+  783  git status
+  784  git checkout training
+  785  git status
+  786  git merge master
+  787  git status
+  788  git log
+  789  git revert HEAD
+  790  ls
+  791  cd Intro-to-Python/
+  792  ls
+  793  cd ..
+  794  ls
+  795  git pull
+  796  ls
+  797  git merge --abort
+  798  git status
+  799  cd Intro-to-Python/
+  800  ls
+  801  git checkout master
+  802  git merge training
+  803  git status
+  804  git commit
+  805  git add ../README.md 
+  806  git commit
+  807  git status
+  808  ls
+  809  cd ..
+  810  ls
+  811  git status
+  812  git push
+  813  ls
+  814  git chekout training
+  815  git checkout training
+  816  ls
+  817  cd Intro-to-Python/
+  818  ls
+  819  cd ..
+  820  ls
+  821  cd Intro-to-Python/
+  822  ls
+  823  cp 03.ipynb ../../
+  824  ls
+  825  cd ..
+  826  ls
+  827  cd ..
+  828  ls
+  829  cd Python
+  830  cd Python4Bioinfo/
+  831  ls
+  832  cp -r Intro-to-Python/ ../../
+  833  ls
+  834  cd ..
+  835  ls
+  836  cd ..
+  837  ls
+  838  cd  Intro-to-Python/
+  839  ls
+  840  git status
+  841  cd ..
+  842  cd Python/
+  843  cd Python4Bioinfo/
+  844  ls
+  845  git status
+  846  git checkout master
+  847  ls
+  848  cd Careen/BED/
+  849  ls
+  850  modules av
+  851  modules -av
+  852  modules avail
+  853  module avail
+  854  module av
+  855  ls
+  856  cd ..
+  857  ls
+  858  cp -r BED/ /tmp/
+  859  ls
+  860  cd /tmp/
+  861  ls
+  862  cd BED/
+  863  ls
+  864  cd
+  865  cd Accreditation/
+  866  ls
+  867  cd RNASeq/
+  868  ls
+  869  cd Results/
+  870  ls
+  871  mkdir Cufflinks
+  872  ols
+  873  ls
+  874  cd ../Data/
+  875  ls
+  876  cd p
+  877  cd Practice/
+  878  ls
+  879  ls |grep 'sample'
+  880  ls |grep 'sample'|cut -f1 -d'_'
+  881  ls |grep 'sample'|cut -f1 -d'_'|uniq
+  882  ls |grep 'sample'|cut -f1 -d'_'|uniq >../../Code/samples
+  883  ls
+  884  cd
+  885  cd Accreditation/RNASeq/Code/
+  886  ls
+  887  chmod +x run_tophat.sh 
+  888  cat run_tophat.sh 
+  889  ls
+  890  c
+  891  ./run_
+  892  ./run_tophat.sh 
+  893  ls
+  894  which python
+  895  cd
+  896  cd EANBiT/
+  897  ls
+  898  cd Python/
+  899  ls
+  900  cd Python4Bioinfo/
+  901  cd ..
+  902  ls
+  903  mv Python.pdf ../
+  904  ls
+  905  cd Python4Bioinfo/
+  906  ls
+  907  git status
+  908  ls
+  909  cd ../
+  910  ls
+  911  cd ..
+  912  ls
+  913  cd Intro-to-Python/
+  914  ls
+  915  cp 04.ipynb ../Python/Python4Bioinfo/Intro-to-Python/
+  916  ls
+  917  cd ../Python/Python4Bioinfo/
+  918  git status
+  919  git add Intro-to-Python/03.ipynb Intro-to-Python/execution.png 
+  920  git commit -m'Adding Data structures notes'
+  921  git push
+  922  git status
+  923  git add Intro-to-Python/04.ipynb 
+  924  git commit -m'Dictionaries Notebook'
+  925  git push
+  926  ls
+  927  cp ../../Intro-to-Python/05.ipynb ./Intro-to-Python/
+  928  ls
+  929  git status
+  930  git add Intro-to-Python/04.ipynb 
+  931  git add Intro-to-Python/05.ipynb 
+  932  git commit -m'Adding notes for conditionals'
+  933  git push
+  934  ls
+  935  ls ../../Intro-to-Python/
+  936  cp ../../Intro-to-Python/06.ipynb Intro-to-Python/
+  937  ls Intro-to-Python/
+  938  ls
+  939  git status
+  940  git add Intro-to-Python/06.ipynb 
+  941  git commit -m"Adding the functions notebook"
+  942  git push
+  943  git status
+  944  git add Intro-to-Python/06.ipynb 
+  945  git commit -m"Updating the functions notebook"
+  946  git push
+  947  ls
+  948  git status
+  949  git add Files/
+  950  git add Intro-to-Python/0*
+  951  git status
+  952  git add Intro-to-Python/*.py
+  953  git status
+  954  git add Intro-to-Python/08.ipynb 
+  955  ls
+  956  git commit -m"File, Scripts and modules'
+  957  "
+  958  git push
+  959  ls
+  960  git status
+  961  ls
+  962  git status
+  963  git add Intro-to-Python/0*
+  964  git status
+  965  git add README.md 
+  966  git commit -m"Adding Pands and Bioinformatics Notebooks"
+  967  git push 
+  968  git status
+  969  git add Intro-to-Python/00.ipynb 
+  970  git add README.md 
+  971  git commit -m'minor edits'
+  972  git push
+  973  ed
+  974  man ed
+  975  man sed
+  976  exit
+  977  cd Accreditation/RNASeq/Code/
+  978  ls
+  979  source activate py27
+  980  ls
+  981  ./run_tophat.sh 
+  982  exit
+  983  ls
+  984  source activate py27
+  985  conda install -c bioconda cufflinks
+  986  exit
+  987  tmux
+  988  tmux new -s accredit
+  989  exit
+  990  ls
+  991  mkdir MARS
+  992  ls
+  993  source activate icipe-env
+  994  jupyter lab --no-browser
+  995  exiit
+  996  exit
+  997  cd EANBIT/
+  998  ls
+  999  cd Linux/
+ 1000  ls
+ 1001  cd Data/
+ 1002  ls
+ 1003  grep -m18 nrf1_seq.fa 
+ 1004  grep -m18 '>' nrf1_seq.fa 
+ 1005  grep -m18 '>' nrf1_seq.fa |wc -l
+ 1006  man grep
+ 1007  grep -m18 -n '>' nrf1_seq.fa |wc -l
+ 1008  grep -m18 -n '>' nrf1_seq.fa
+ 1009  grep -m19 -n '>' nrf1_seq.fa
+ 1010  grep -m19 -n '>' nrf1_seq.fa|tail -n2
+ 1011  grep -m19 -n '>' nrf1_seq.fa|tail 2
+ 1012  grep -m19 -n '>' nrf1_seq.fa|tail -n 2
+ 1013  grep -m19 -n '>' nrf1_seq.fa|tail -n 2|cut -f1 -d":"
+ 1014  head -n 3445 nrf1_seq.fa |tail -n -794
+ 1015  head -n 3445 nrf1_seq.fa |tail -n -793
+ 1016  head -n 3444 nrf1_seq.fa |tail -n -794
+ 1017  head -n 3444 nrf1_seq.fa |tail -n -794 |wc -c
+ 1018  grep -m19 -n '>' nrf1_seq.fa|tail -n 2|cut -f1 -d":"
+ 1019  grep -m19 -n '>' nrf1_seq.fa|tail -n 1|cut -f1 -d":"
+ 1020  last=grep -m19 -n '>' nrf1_seq.fa|tail -n 1|cut -f1 -d":"
+ 1021  last=expr `grep -m19 -n '>' nrf1_seq.fa|tail -n 1|cut -f1 -d":"`
+ 1022  `grep -m19 -n '>' nrf1_seq.fa|tail -n 1|cut -f1 -d":"`
+ 1023  head -n `grep -m19 -n '>' nrf1_seq.fa|tail -n 1 | cut -f1 -d":"`  nrf1_seq.fa |tail -n -`grep -m19 -n '>' nrf1_seq.fa|head -n 1 |cut -f1 -d":"` |wc -c
+ 1024  head -n `grep -m19 -n '>' nrf1_seq.fa|tail -n 1 | cut -f1 -d":"`  nrf1_seq.fa |tail -n -`grep -m19 -n '>' nrf1_seq.fa|head -n 1 |cut -f1 -d":"`
+ 1025  head -n `grep -m19 -n '>' nrf1_seq.fa|tail -n 1 | cut -f1 -d":"`  nrf1_seq.fa |tail -n -`grep -m19 -n '>' nrf1_seq.fa|head -n 2 |cut -f1 -d":"`
+ 1026  head -n `grep -m19 -n '>' nrf1_seq.fa|tail -n 1 | cut -f1 -d":"`  nrf1_seq.fa |tail -n - `grep -m19 -n '>' nrf1_seq.fa|head -n 2 |cut -f1 -d":"`
+ 1027  head -n `grep -m19 -n '>' nrf1_seq.fa|tail -n 1 | cut -f1 -d":"`  nrf1_seq.fa |tail -n - `grep -m19 -n '>' nrf1_seq.fa|head -n 1 |cut -f1 -d":"`
+ 1028  head -n `grep -m19 -n '>' nrf1_seq.fa|tail -n 1 | cut -f1 -d":"`  nrf1_seq.fa |tail -n -`grep -m19 -n '>' nrf1_seq.fa|head -n 1 |cut -f1 -d":"` |wc -c
+ 1029* head -n `grep -m19 -n '>' nrf1_seq.fa|tail -n 1 | cut -f1 -d":"`  nrf1_seq.fa |tail -n -`grep -m19 -n '>' nrf1_seq.fa|head -n 1 |cut -f
+ 1030  grep -m19 -n '>' nrf1_seq.fa|head -n 1 |cut -f1 -d":"
+ 1031  grep -m19 -n '>' nrf1_seq.fa|head -n 1
+ 1032  head nrf1_seq.fa 
+ 1033  grep -m19 -n '>' nrf1_seq.fa|head -n 1
+ 1034  grep -m19 -n '>' nrf1_seq.fa
+ 1035  grep -m19 -n '>' nrf1_seq.fa|tail -n 2
+ 1036  grep -m19 -n '>' nrf1_seq.fa|tail -n 2|head -1
+ 1037  head -n `grep -m19 -n '>' nrf1_seq.fa|tail -n 1 | cut -f1 -d":"`  nrf1_seq.fa |tail -n -`grep -m19 -n '>' nrf1_seq.fa|tail -n 2| head -n 1 |cut -f1 -d":"` |wc -c
+ 1038  history >history
