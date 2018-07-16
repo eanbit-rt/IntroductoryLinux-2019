@@ -1,49 +1,48 @@
-## Advanced Linux
+## Introductory Linux
+This page contains resources for teaching Introductory Linux. It is actively under development, so expect lots of changes in teh coming days. For EANBiT Anvanced Linux content, see this [page](Notebooks/advancedLinux.md).
 
-The planned topics include:
-1. Reminder on the structure of a command line: command name, parameters (short and long format) and arguments
-6. Refresher on grep. Simple examples
-7. Bash utilities like diff, cut, join
-2. Variables and variable expansion with the $ sign. The effect of single- or double-quoting
-5. Shell scripts
-5. Tests and control structures. Things like `if \[ $a -ne 0 ]`, loops (for and while)
-3. String manipulation in Bash, with constructs like "${var:2:5}" or "${var%.tar} (see https://www.tldp.org/LDP/abs/html/string-manipulation.html)
-4. Arithmetic calculations in Bash, with "expr" or constructs like "$(( var + 1 ))""
-8. Simple file processing with sed.
-9. awk.
+### Learning from these resources
+To follow these resources, you need a Linux terminal. Here are your options:
+1. If you have Ubuntu, you are good to go
+2. If you have Windows 10, follow the instructions in [this article](https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/) to set up Ubuntu shell. 
+3. Install git bash using [these instructions](http://www.techoism.com/how-to-install-git-bash-on-windows/)
+3. Install Cygwin using [these instructions](https://www.maketecheasier.com/install-configure-cygwin-windows/)
+
+These options should cover each of you. The Other option requires longer set up: Ubuntu Virtual box or dual booting Ubuntu and windows. Many resources on how to do this are available on the web. 
 
 ### Regular expressions
 See [this](https://www.rexegg.com/regex-quickstart.html) detailed regular expression cheat sheat. 
 
-## sed
+## Outline
 
-        `sed [-e] 'instruction' file`
-The command line options are:
-        -e Editing instruction follows.
-        -f Filename of the script follows.
-        -n Suppress automatic output of input lines.
-You can pass multiple sed commands by preceding each with `-e` or a semicolon (`;`)
-    
-    ` sed -e 's/old/new/' -e ’s/old1/new2/' file`
-    
-You can also pass commands to `sed` in a file using `-f`.
-    
-    `sed -f sedcscript -e `
-    
-For further resources on sed, see: [Provide a good link]
+For the PAUSTI Class, we will use the [commandline bootcamp](http://rik.smith-unna.com/command_line_bootcamp) by [Rik](https://twitter.com/blahah404). 
 
-## awk
-Named after the three developers. 
+1. Find out where you are
+2. Linux directories
+3. Finding yourself
+4. Making directories
+4. Moving around
+4. The root directory
+4. Going up
+4. Absolute and relative
+4. Going home
+4. Advanced ls
+4. Man pages
+4. Removing directories
+4. Tab completion
+4. Making files
+4. Moving files
+4. Renaming files
+4. Moving directories
+4. Removing files
+4. Copying files
+4. Copying directories
+4. Viewing files less
+4. Viewing files cat
+4. Counting characters
+4. Editing small files
+4. The path
+4. Matching lines
+4. Working with columns
+4. Combining commands
 
-`awk 'instructions’ files`
-
-For example, in this example where sed works like `cut`,
-
-`awk '{ print $1 }' file`, The instruction is to print the first field in the file. By default, the fields are delimited by space. Where another character delimits the fields, `-F` is used to specify the delimiter. 
-
- `awk -F, '{ print $1 }' file` (a comma in this example)
-
-
-You can also print each field in its line by separating the print statements with a semicolon. 
-
- `awk -F, '{ print $1; print $2; print $3 }' file`
