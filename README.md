@@ -1,5 +1,5 @@
 ## Introductory Linux
-This page contains resources for teaching Introductory Linux. It is actively under development, so expect lots of changes in the coming days. For EANBiT Advanced Linux content, see this [page](Notebooks/advancedLinux.md).
+This page contains resources for teaching Introductory Linux. For EANBiT Advanced Linux content, see this [page](Notebooks/advancedLinux.md).
 
 ### Learning from these resources
 To follow these resources, you need a Linux terminal. Here are your options:
@@ -18,7 +18,7 @@ See [this](https://www.rexegg.com/regex-quickstart.html) detailed regular expres
 
 ## Outline
 
-For the PAUSTI Class, we will use the [commandline bootcamp](http://rik.smith-unna.com/command_line_bootcamp) by [Rik](https://twitter.com/blahah404). 
+You can practice Linux using the [commandline bootcamp](http://rik.smith-unna.com/command_line_bootcamp) by [Rik](https://twitter.com/blahah404). 
 
 1. Find out where you are
 2. Linux directories
