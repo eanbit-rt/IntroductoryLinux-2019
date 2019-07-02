@@ -16,36 +16,11 @@ These options should cover each of you. The other option requires longer set up:
 ### Regular expressions
 See [this](https://www.rexegg.com/regex-quickstart.html) detailed regular expression cheat sheat. 
 
-## Outline
-
+## Learning Resources
 You can practice Linux using the [commandline bootcamp](http://rik.smith-unna.com/command_line_bootcamp) by [Rik](https://twitter.com/blahah404). 
 
-1. Find out where you are
-2. Linux directories
-3. Finding yourself
-4. Making lists
-4. Moving around
-4. The root directory
-4. Going up
-4. Absolute and relative
-4. Going home
-4. Advanced ls
-4. Man pages
-4. Removing directories
-4. Tab completion
-4. Making files
-4. Moving files
-4. Renaming files
-4. Moving directories
-4. Removing files
-4. Copying files
-4. Copying directories
-4. Viewing files less
-4. Viewing files cat
-4. Counting characters
-4. Editing small files
-4. The path
-4. Matching lines
-4. Working with columns
-4. Combining commands
+
+### Exercise
+The files you will use for the hands-on exercise can be located in the [Data](Data) directory.
+
 
