@@ -1,0 +1,571 @@
+LOCUS       KF015975                 558 bp    DNA     linear   VRL 22-JUN-2016
+DEFINITION  African swine fever virus strain NAM 2011/1 structural protein p54
+            (E183L) gene, complete cds.
+ACCESSION   KF015975
+VERSION     KF015975.1
+KEYWORDS    .
+SOURCE      African swine fever virus
+  ORGANISM  African swine fever virus
+            Viruses; dsDNA viruses, no RNA stage; Asfarviridae; Asfivirus.
+REFERENCE   1  (bases 1 to 558)
+  AUTHORS   van Heerden,J., Malan,K. and Heath,L.
+  TITLE     P54 sequences from databank
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 558)
+  AUTHORS   van Heerden,J., Malan,K. and Heath,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-MAY-2013) Transboundary Animal Diseases Programme,
+            Onderstepoort Veterinary Institute, Private bag 5, Onderstepoort,
+            Gauteng 0110, South Africa
+FEATURES             Location/Qualifiers
+     source          1..558
+                     /organism="African swine fever virus"
+                     /mol_type="genomic DNA"
+                     /strain="NAM 2011/1"
+                     /host="pig"
+                     /db_xref="taxon:10497"
+                     /country="Namibia"
+                     /collection_date="2011"
+     gene            1..558
+                     /gene="E183L"
+     CDS             1..558
+                     /gene="E183L"
+                     /codon_start=1
+                     /product="structural protein p54"
+                     /protein_id="AHA58882.1"
+                     /translation="MDSEFFQPVYPRHYGECLSPVTTPSFFSTHMYTILIAIVVLVII
+                     IIVLIYLFSSRKKKAAAAIEEEDIQFINPYQDQQWVEVTPQPGTSKPAGATTASAGKP
+                     VTGRPATNRPATNKPVTDNPVTDRLVMATGGPAAAPAAASAPAHPTEPYTTVTTQNTA
+                     SQTMSAIENLRQRNTYTHKDLENSL"
+ORIGIN      
+        1 atggatagcg aattttttca gccggtgtat ccgcgtcatt atggcgaatg cctgagcccg
+       61 gtgaccaccc cgagcttttt tagcacccat atgtatacca ttctgattgc gattgtggtg
+      121 ctggtgatta ttattattgt gctgatttat ctgtttagca gccgtaaaaa aaaagcggcg
+      181 gcggcgattg aagaagaaga tattcagttt attaacccgt atcaggatca gcagtgggtg
+      241 gaagtgaccc cgcagccggg caccagcaaa ccggcgggcg cgaccaccgc gagcgcgggc
+      301 aaaccggtga ccggccgtcc ggcgaccaac cgtccggcga ccaacaaacc ggtgaccgat
+      361 aacccggtga ccgatcgtct ggtgatggcg accggcggcc cggcggcggc gccggcggcg
+      421 gcgagcgcgc cggcgcatcc gaccgaaccg tataccaccg tgaccaccca gaacaccgcg
+      481 agccagacca tgagcgcgat tgaaaacctg cgtcagcgta acacctatac ccataaagat
+      541 ctggaaaaca gcctgtaa
+//
+
+LOCUS       KF015971                 558 bp    DNA     linear   VRL 22-JUN-2016
+DEFINITION  African swine fever virus strain NAM 2009/6 structural protein p54
+            (E183L) gene, complete cds.
+ACCESSION   KF015971
+VERSION     KF015971.1
+KEYWORDS    .
+SOURCE      African swine fever virus
+  ORGANISM  African swine fever virus
+            Viruses; dsDNA viruses, no RNA stage; Asfarviridae; Asfivirus.
+REFERENCE   1  (bases 1 to 558)
+  AUTHORS   van Heerden,J., Malan,K. and Heath,L.
+  TITLE     P54 sequences from databank
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 558)
+  AUTHORS   van Heerden,J., Malan,K. and Heath,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-MAY-2013) Transboundary Animal Diseases Programme,
+            Onderstepoort Veterinary Institute, Private bag 5, Onderstepoort,
+            Gauteng 0110, South Africa
+FEATURES             Location/Qualifiers
+     source          1..558
+                     /organism="African swine fever virus"
+                     /mol_type="genomic DNA"
+                     /strain="NAM 2009/6"
+                     /host="pig"
+                     /db_xref="taxon:10497"
+                     /country="Namibia"
+                     /collection_date="2009"
+     gene            1..558
+                     /gene="E183L"
+     CDS             1..558
+                     /gene="E183L"
+                     /codon_start=1
+                     /product="structural protein p54"
+                     /protein_id="AHA58878.1"
+                     /translation="MDSEFFQPVYPRHYGECLSPVTTPSFFSTHMYTILIAIVVLVII
+                     IIVLIYLFSSRKKKAAAAIEEEDIQFINPYQDQQWAEVTPQPGTSKPAGATTASAGKP
+                     VTGRPATNRPATNKPVTDNPVTDRLVMATGGPAAAPAAASAPAHPTEPYTTVTTQNTA
+                     SQTMSAIENLRQRNTYTHKDLENSL"
+ORIGIN      
+        1 atggatagcg aattttttca gccggtgtat ccgcgtcatt atggcgaatg cctgagcccg
+       61 gtgaccaccc cgagcttttt tagcacccat atgtatacca ttctgattgc gattgtggtg
+      121 ctggtgatta ttattattgt gctgatttat ctgtttagca gccgtaaaaa aaaagcggcg
+      181 gcggcgattg aagaagaaga tattcagttt attaacccgt atcaggatca gcagtgggcg
+      241 gaagtgaccc cgcagccggg caccagcaaa ccggcgggcg cgaccaccgc gagcgcgggc
+      301 aaaccggtga ccggccgtcc ggcgaccaac cgtccggcga ccaacaaacc ggtgaccgat
+      361 aacccggtga ccgatcgtct ggtgatggcg accggcggcc cggcggcggc gccggcggcg
+      421 gcgagcgcgc cggcgcatcc gaccgaaccg tataccaccg tgaccaccca gaacaccgcg
+      481 agccagacca tgagcgcgat tgaaaacctg cgtcagcgta acacctatac ccataaagat
+      541 ctggaaaaca gcctgtaa
+//
+
+LOCUS       KF015970                 558 bp    DNA     linear   VRL 22-JUN-2016
+DEFINITION  African swine fever virus strain NAM 2009/1 structural protein p54
+            (E183L) gene, complete cds.
+ACCESSION   KF015970
+VERSION     KF015970.1
+KEYWORDS    .
+SOURCE      African swine fever virus
+  ORGANISM  African swine fever virus
+            Viruses; dsDNA viruses, no RNA stage; Asfarviridae; Asfivirus.
+REFERENCE   1  (bases 1 to 558)
+  AUTHORS   van Heerden,J., Malan,K. and Heath,L.
+  TITLE     P54 sequences from databank
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 558)
+  AUTHORS   van Heerden,J., Malan,K. and Heath,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-MAY-2013) Transboundary Animal Diseases Programme,
+            Onderstepoort Veterinary Institute, Private bag 5, Onderstepoort,
+            Gauteng 0110, South Africa
+FEATURES             Location/Qualifiers
+     source          1..558
+                     /organism="African swine fever virus"
+                     /mol_type="genomic DNA"
+                     /strain="NAM 2009/1"
+                     /host="pig"
+                     /db_xref="taxon:10497"
+                     /country="Namibia"
+                     /collection_date="2009"
+     gene            1..558
+                     /gene="E183L"
+     CDS             1..558
+                     /gene="E183L"
+                     /codon_start=1
+                     /product="structural protein p54"
+                     /protein_id="AHA58877.1"
+                     /translation="MDSEFFQPVYPRHYGECLSPVTTPSFFSTHMYTILIAIVVLVII
+                     IIVLIYLFSSRKKKAAAAIEEEDIQFINPYQDQQWAEVTPQPGTSKPAGATTASAGKP
+                     VTGRPATNRPATNKPVTDNPVTDRLVMATGGPAAAPAAASAPAHPTEPYTTVTTQNTA
+                     SQTMSAIENLRQRNTYTHKDLENSL"
+ORIGIN      
+        1 atggatagcg aattttttca gccggtgtat ccgcgtcatt atggcgaatg cctgagcccg
+       61 gtgaccaccc cgagcttttt tagcacccat atgtatacca ttctgattgc gattgtggtg
+      121 ctggtgatta ttattattgt gctgatttat ctgtttagca gccgtaaaaa aaaagcggcg
+      181 gcggcgattg aagaagaaga tattcagttt attaacccgt atcaggatca gcagtgggcg
+      241 gaagtgaccc cgcagccggg caccagcaaa ccggcgggcg cgaccaccgc gagcgcgggc
+      301 aaaccggtga ccggccgtcc ggcgaccaac cgtccggcga ccaacaaacc ggtgaccgat
+      361 aacccggtga ccgatcgtct ggtgatggcg accggcggcc cggcggcggc gccggcggcg
+      421 gcgagcgcgc cggcgcatcc gaccgaaccg tataccaccg tgaccaccca gaacaccgcg
+      481 agccagacca tgagcgcgat tgaaaacctg cgtcagcgta acacctatac ccataaagat
+      541 ctggaaaaca gcctgtaa
+//
+
+LOCUS       KF015968                 552 bp    DNA     linear   VRL 22-JUN-2016
+DEFINITION  African swine fever virus strain NAM 2008/1 structural protein p54
+            (E183L) gene, complete cds.
+ACCESSION   KF015968
+VERSION     KF015968.1
+KEYWORDS    .
+SOURCE      African swine fever virus
+  ORGANISM  African swine fever virus
+            Viruses; dsDNA viruses, no RNA stage; Asfarviridae; Asfivirus.
+REFERENCE   1  (bases 1 to 552)
+  AUTHORS   van Heerden,J., Malan,K. and Heath,L.
+  TITLE     P54 sequences from databank
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 552)
+  AUTHORS   van Heerden,J., Malan,K. and Heath,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-MAY-2013) Transboundary Animal Diseases Programme,
+            Onderstepoort Veterinary Institute, Private bag 5, Onderstepoort,
+            Gauteng 0110, South Africa
+FEATURES             Location/Qualifiers
+     source          1..552
+                     /organism="African swine fever virus"
+                     /mol_type="genomic DNA"
+                     /strain="NAM 2008/1"
+                     /host="pig"
+                     /db_xref="taxon:10497"
+                     /country="Namibia"
+                     /collection_date="2008"
+     gene            1..552
+                     /gene="E183L"
+     CDS             1..552
+                     /gene="E183L"
+                     /codon_start=1
+                     /product="structural protein p54"
+                     /protein_id="AHA58875.1"
+                     /translation="MDSEFFQPVYPRHYGECLSPVTTPSFFSTHMYTILIAIVVLVII
+                     IIVLIYLFSSRKKKAAAAIEEEDIQFINPYQDQQWVEVTPQPGTSKPAGATTASAGKP
+                     VTGRPATNRPATNKPVTDNPVTDRLVMATGGPAAAPAAASAHPTEPYTTVTTQNTASQ
+                     TMSAIENLRQRNTYTHKDLENSL"
+ORIGIN      
+        1 atggatagcg aattttttca gccggtgtat ccgcgtcatt atggcgaatg cctgagcccg
+       61 gtgaccaccc cgagcttttt tagcacccat atgtatacca ttctgattgc gattgtggtg
+      121 ctggtgatta ttattattgt gctgatttat ctgtttagca gccgtaaaaa aaaagcggcg
+      181 gcggcgattg aagaagaaga tattcagttt attaacccgt atcaggatca gcagtgggtg
+      241 gaagtgaccc cgcagccggg caccagcaaa ccggcgggcg cgaccaccgc gagcgcgggc
+      301 aaaccggtga ccggccgtcc ggcgaccaac cgtccggcga ccaacaaacc ggtgaccgat
+      361 aacccggtga ccgatcgtct ggtgatggcg accggcggcc cggcggcggc gccggcggcg
+      421 gcgagcgcgc atccgaccga accgtatacc accgtgacca cccagaacac cgcgagccag
+      481 accatgagcg cgattgaaaa cctgcgtcag cgtaacacct atacccataa agatctggaa
+      541 aacagcctgt aa
+//
+
+LOCUS       KF015891                 552 bp    DNA     linear   VRL 22-JUN-2016
+DEFINITION  African swine fever virus strain NAM 86/3 structural protein p54
+            (E183L) gene, complete cds.
+ACCESSION   KF015891
+VERSION     KF015891.1
+KEYWORDS    .
+SOURCE      African swine fever virus
+  ORGANISM  African swine fever virus
+            Viruses; dsDNA viruses, no RNA stage; Asfarviridae; Asfivirus.
+REFERENCE   1  (bases 1 to 552)
+  AUTHORS   van Heerden,J., Malan,K. and Heath,L.
+  TITLE     P54 sequences from databank
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 552)
+  AUTHORS   van Heerden,J., Malan,K. and Heath,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-MAY-2013) Transboundary Animal Diseases Programme,
+            Onderstepoort Veterinary Institute, Private bag 5, Onderstepoort,
+            Gauteng 0110, South Africa
+FEATURES             Location/Qualifiers
+     source          1..552
+                     /organism="African swine fever virus"
+                     /mol_type="genomic DNA"
+                     /strain="NAM 86/3"
+                     /host="pig"
+                     /db_xref="taxon:10497"
+                     /country="Namibia"
+                     /collection_date="1986"
+     gene            1..552
+                     /gene="E183L"
+     CDS             1..552
+                     /gene="E183L"
+                     /codon_start=1
+                     /product="structural protein p54"
+                     /protein_id="AHA58798.1"
+                     /translation="MDSEFFQPVYPRHYGECLSPVTTPSFFSTHMYTILIAIVVLVII
+                     IIVLIYLFSSRKKKAAAAIEEEDIQFINPYQDQQWVEVTPQPGTSKPAGATTASAGKP
+                     VTGRPATNRPATNKPVTDNPVTDRLVMATGGPAAAPAAASAYPTEPYTTVTTQNTASQ
+                     TMSAIENLRQRNTYTHKDLENSL"
+ORIGIN      
+        1 atggatagcg aattttttca gccggtgtat ccgcgtcatt atggcgaatg cctgagcccg
+       61 gtgaccaccc cgagcttttt tagcacccat atgtatacca ttctgattgc gattgtggtg
+      121 ctggtgatta ttattattgt gctgatttat ctgtttagca gccgtaaaaa aaaagcggcg
+      181 gcggcgattg aagaagaaga tattcagttt attaacccgt atcaggatca gcagtgggtg
+      241 gaagtgaccc cgcagccggg caccagcaaa ccggcgggcg cgaccaccgc gagcgcgggc
+      301 aaaccggtga ccggccgtcc ggcgaccaac cgtccggcga ccaacaaacc ggtgaccgat
+      361 aacccggtga ccgatcgtct ggtgatggcg accggcggcc cggcggcggc gccggcggcg
+      421 gcgagcgcgt atccgaccga accgtatacc accgtgacca cccagaacac cgcgagccag
+      481 accatgagcg cgattgaaaa cctgcgtcag cgtaacacct atacccataa agatctggaa
+      541 aacagcctgt aa
+//
+
+LOCUS       KF015866                 552 bp    DNA     linear   VRL 22-JUN-2016
+DEFINITION  African swine fever virus strain Spec 208 structural protein p54
+            (E183L) gene, complete cds.
+ACCESSION   KF015866
+VERSION     KF015866.1
+KEYWORDS    .
+SOURCE      African swine fever virus
+  ORGANISM  African swine fever virus
+            Viruses; dsDNA viruses, no RNA stage; Asfarviridae; Asfivirus.
+REFERENCE   1  (bases 1 to 552)
+  AUTHORS   van Heerden,J., Malan,K. and Heath,L.
+  TITLE     P54 sequences from databank
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 552)
+  AUTHORS   van Heerden,J., Malan,K. and Heath,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-MAY-2013) Transboundary Animal Diseases Programme,
+            Onderstepoort Veterinary Institute, Private bag 5, Onderstepoort,
+            Gauteng 0110, South Africa
+FEATURES             Location/Qualifiers
+     source          1..552
+                     /organism="African swine fever virus"
+                     /mol_type="genomic DNA"
+                     /strain="Spec 208"
+                     /host="pig"
+                     /db_xref="taxon:10497"
+                     /country="Namibia"
+                     /collection_date="1989"
+     gene            1..552
+                     /gene="E183L"
+     CDS             1..552
+                     /gene="E183L"
+                     /codon_start=1
+                     /product="structural protein p54"
+                     /protein_id="AHA58773.1"
+                     /translation="MDSEFFQPVYPRHYGECLSPVTTPSFFSTHMYIILIAIVVLVII
+                     IIVLIYLFSSRKKKAAAAIEEEDIQFINPYQDQQWVEVTPQPGTSKPAGATTASAGKP
+                     VTGRPATNRLATNKPVTDNPVTDRLVMATGGPAAAPAAASAHPTEPYTTVTTQNTASQ
+                     TMSAIENLRQRNTYTHKDLENSL"
+ORIGIN      
+        1 atggatagcg aattttttca gccggtgtat ccgcgtcatt atggcgaatg cctgagcccg
+       61 gtgaccaccc cgagcttttt tagcacccat atgtatatta ttctgattgc gattgtggtg
+      121 ctggtgatta ttattattgt gctgatttat ctgtttagca gccgtaaaaa aaaagcggcg
+      181 gcggcgattg aagaagaaga tattcagttt attaacccgt atcaggatca gcagtgggtg
+      241 gaagtgaccc cgcagccggg caccagcaaa ccggcgggcg cgaccaccgc gagcgcgggc
+      301 aaaccggtga ccggccgtcc ggcgaccaac cgtctggcga ccaacaaacc ggtgaccgat
+      361 aacccggtga ccgatcgtct ggtgatggcg accggcggcc cggcggcggc gccggcggcg
+      421 gcgagcgcgc atccgaccga accgtatacc accgtgacca cccagaacac cgcgagccag
+      481 accatgagcg cgattgaaaa cctgcgtcag cgtaacacct atacccataa agatctggaa
+      541 aacagcctgt aa
+//
+
+LOCUS       KF015865                 552 bp    DNA     linear   VRL 22-JUN-2016
+DEFINITION  African swine fever virus strain Spec 207 structural protein p54
+            (E183L) gene, complete cds.
+ACCESSION   KF015865
+VERSION     KF015865.1
+KEYWORDS    .
+SOURCE      African swine fever virus
+  ORGANISM  African swine fever virus
+            Viruses; dsDNA viruses, no RNA stage; Asfarviridae; Asfivirus.
+REFERENCE   1  (bases 1 to 552)
+  AUTHORS   van Heerden,J., Malan,K. and Heath,L.
+  TITLE     P54 sequences from databank
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 552)
+  AUTHORS   van Heerden,J., Malan,K. and Heath,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-MAY-2013) Transboundary Animal Diseases Programme,
+            Onderstepoort Veterinary Institute, Private bag 5, Onderstepoort,
+            Gauteng 0110, South Africa
+FEATURES             Location/Qualifiers
+     source          1..552
+                     /organism="African swine fever virus"
+                     /mol_type="genomic DNA"
+                     /strain="Spec 207"
+                     /host="pig"
+                     /db_xref="taxon:10497"
+                     /country="Namibia"
+                     /collection_date="1989"
+     gene            1..552
+                     /gene="E183L"
+     CDS             1..552
+                     /gene="E183L"
+                     /codon_start=1
+                     /product="structural protein p54"
+                     /protein_id="AHA58772.1"
+                     /translation="MDSEFFQPVYPRHYGECLSPVTTPSFFSTHMYIILIAIVVLVII
+                     IIVLIYLFSSRKKKAAAAIEEEDIQFINPYQDQQWVEVTPQPGTSKPAGATTASAGKP
+                     VTGRPATNRLATNKPVTDNPVTDRLVMATGGPAAAPAAASAHPTEPYTTVTTQNTASQ
+                     TMSAIENLRQRNTYTHKDLENSL"
+ORIGIN      
+        1 atggatagcg aattttttca gccggtgtat ccgcgtcatt atggcgaatg cctgagcccg
+       61 gtgaccaccc cgagcttttt tagcacccat atgtatatta ttctgattgc gattgtggtg
+      121 ctggtgatta ttattattgt gctgatttat ctgtttagca gccgtaaaaa aaaagcggcg
+      181 gcggcgattg aagaagaaga tattcagttt attaacccgt atcaggatca gcagtgggtg
+      241 gaagtgaccc cgcagccggg caccagcaaa ccggcgggcg cgaccaccgc gagcgcgggc
+      301 aaaccggtga ccggccgtcc ggcgaccaac cgtctggcga ccaacaaacc ggtgaccgat
+      361 aacccggtga ccgatcgtct ggtgatggcg accggcggcc cggcggcggc gccggcggcg
+      421 gcgagcgcgc atccgaccga accgtatacc accgtgacca cccagaacac cgcgagccag
+      481 accatgagcg cgattgaaaa cctgcgtcag cgtaacacct atacccataa agatctggaa
+      541 aacagcctgt aa
+//
+
+LOCUS       KF015864                 558 bp    DNA     linear   VRL 22-JUN-2016
+DEFINITION  African swine fever virus strain SWA structural protein p54 (E183L)
+            gene, complete cds.
+ACCESSION   KF015864
+VERSION     KF015864.1
+KEYWORDS    .
+SOURCE      African swine fever virus
+  ORGANISM  African swine fever virus
+            Viruses; dsDNA viruses, no RNA stage; Asfarviridae; Asfivirus.
+REFERENCE   1  (bases 1 to 558)
+  AUTHORS   van Heerden,J., Malan,K. and Heath,L.
+  TITLE     P54 sequences from databank
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 558)
+  AUTHORS   van Heerden,J., Malan,K. and Heath,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-MAY-2013) Transboundary Animal Diseases Programme,
+            Onderstepoort Veterinary Institute, Private bag 5, Onderstepoort,
+            Gauteng 0110, South Africa
+FEATURES             Location/Qualifiers
+     source          1..558
+                     /organism="African swine fever virus"
+                     /mol_type="genomic DNA"
+                     /strain="SWA"
+                     /db_xref="taxon:10497"
+                     /country="Namibia"
+                     /collection_date="1977"
+     gene            1..558
+                     /gene="E183L"
+     CDS             1..558
+                     /gene="E183L"
+                     /codon_start=1
+                     /product="structural protein p54"
+                     /protein_id="AHA58771.1"
+                     /translation="MDSEFFQPVYPRHYGECLSPVTTSSFFSTHMYTILIAIVVLVII
+                     IIVLIYLFSSRKKKAAAAIEEEDIQFINPYQDQQWVEVTPQPGTSKPAGATTASAGKP
+                     VTGRPATNRPATNKPVTDNPVTDRLVMATGGPAAAGAAASAPAHSTEPYTTVTTQNTA
+                     SQTMSAIENLRQRNTYTHKDLENSL"
+ORIGIN      
+        1 atggatagcg aattttttca gccggtgtat ccgcgtcatt atggcgaatg cctgagcccg
+       61 gtgaccacca gcagcttttt tagcacccat atgtatacca ttctgattgc gattgtggtg
+      121 ctggtgatta ttattattgt gctgatttat ctgtttagca gccgtaaaaa aaaagcggcg
+      181 gcggcgattg aagaagaaga tattcagttt attaacccgt atcaggatca gcagtgggtg
+      241 gaagtgaccc cgcagccggg caccagcaaa ccggcgggcg cgaccaccgc gagcgcgggc
+      301 aaaccggtga ccggccgtcc ggcgaccaac cgtccggcga ccaacaaacc ggtgaccgat
+      361 aacccggtga ccgatcgtct ggtgatggcg accggcggcc cggcggcggc gggcgcggcg
+      421 gcgagcgcgc cggcgcatag caccgaaccg tataccaccg tgaccaccca gaacaccgcg
+      481 agccagacca tgagcgcgat tgaaaacctg cgtcagcgta acacctatac ccataaagat
+      541 ctggaaaaca gcctgtaa
+//
+
+LOCUS       KF015861                 558 bp    DNA     linear   VRL 22-JUN-2016
+DEFINITION  African swine fever virus strain NAM/1/80 structural protein p54
+            (E183L) gene, complete cds.
+ACCESSION   KF015861
+VERSION     KF015861.1
+KEYWORDS    .
+SOURCE      African swine fever virus
+  ORGANISM  African swine fever virus
+            Viruses; dsDNA viruses, no RNA stage; Asfarviridae; Asfivirus.
+REFERENCE   1  (bases 1 to 558)
+  AUTHORS   van Heerden,J., Malan,K. and Heath,L.
+  TITLE     P54 sequences from databank
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 558)
+  AUTHORS   van Heerden,J., Malan,K. and Heath,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-MAY-2013) Transboundary Animal Diseases Programme,
+            Onderstepoort Veterinary Institute, Private bag 5, Onderstepoort,
+            Gauteng 0110, South Africa
+FEATURES             Location/Qualifiers
+     source          1..558
+                     /organism="African swine fever virus"
+                     /mol_type="genomic DNA"
+                     /strain="NAM/1/80"
+                     /host="warthog"
+                     /db_xref="taxon:10497"
+                     /country="Namibia"
+                     /collection_date="1980"
+     gene            1..558
+                     /gene="E183L"
+     CDS             1..558
+                     /gene="E183L"
+                     /codon_start=1
+                     /product="structural protein p54"
+                     /protein_id="AHA58768.1"
+                     /translation="MDSEFFQPVYPRHYGECLSPVTTPSFFSTHMYTILIAIVVLVII
+                     IIVLIYLFSSRKKKAAAAIEEEDIQFINPYQDQQWVEVTPQPGTSKPAGATTASAGKP
+                     VTGRPATNRPATNKPVTDNPVTDRLVMATGGPAAAPAAASAPAHPTEPYTTVTTQNTA
+                     SQTMSAIENLRQRNTYTHKDLENSL"
+ORIGIN      
+        1 atggatagcg aattttttca gccggtgtat ccgcgtcatt atggcgaatg cctgagcccg
+       61 gtgaccaccc cgagcttttt tagcacccat atgtatacca ttctgattgc gattgtggtg
+      121 ctggtgatta ttattattgt gctgatttat ctgtttagca gccgtaaaaa aaaagcggcg
+      181 gcggcgattg aagaagaaga tattcagttt attaacccgt atcaggatca gcagtgggtg
+      241 gaagtgaccc cgcagccggg caccagcaaa ccggcgggcg cgaccaccgc gagcgcgggc
+      301 aaaccggtga ccggccgtcc ggcgaccaac cgtccggcga ccaacaaacc ggtgaccgat
+      361 aacccggtga ccgatcgtct ggtgatggcg accggcggcc cggcggcggc gccggcggcg
+      421 gcgagcgcgc cggcgcatcc gaccgaaccg tataccaccg tgaccaccca gaacaccgcg
+      481 agccagacca tgagcgcgat tgaaaacctg cgtcagcgta acacctatac ccataaagat
+      541 ctggaaaaca gcctgtaa
+//
+
+LOCUS       KF736433                 552 bp    DNA     linear   VRL 23-MAY-2014
+DEFINITION  African swine fever virus strain NAM 2004/2 structural protein p54
+            (E183L) gene, complete cds.
+ACCESSION   KF736433
+VERSION     KF736433.1
+KEYWORDS    .
+SOURCE      African swine fever virus
+  ORGANISM  African swine fever virus
+            Viruses; dsDNA viruses, no RNA stage; Asfarviridae; Asfivirus.
+REFERENCE   1  (bases 1 to 552)
+  AUTHORS   van Heerden,J., Malan,K. and Heath,L.
+  TITLE     P54 sequencing data
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 552)
+  AUTHORS   van Heerden,J., Malan,K. and Heath,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-OCT-2013) Transboundary Animal Diseases Programme,
+            Onderstepoort Veterinary Institute, Private bag 5, Onderstepoort,
+            Gauteng 0110, South Africa
+FEATURES             Location/Qualifiers
+     source          1..552
+                     /organism="African swine fever virus"
+                     /mol_type="genomic DNA"
+                     /strain="NAM 2004/2"
+                     /host="pig"
+                     /db_xref="taxon:10497"
+                     /country="Namibia"
+                     /collection_date="2004"
+     gene            1..552
+                     /gene="E183L"
+     CDS             1..552
+                     /gene="E183L"
+                     /codon_start=1
+                     /product="structural protein p54"
+                     /protein_id="AHA58913.1"
+                     /translation="MDSEFFQPVYPRHYGECLSPVTTPSFFSTHMYTILIAIVVLVII
+                     IIVLIYLFSSRKKKAAAAIEEEDIQFINPYQDQQWVEVTPQPGTSKPAGATTASAGKP
+                     VTGRPATNRPATNKPVTDNPVTDRLVMATGGPAAAPAAASAHPTEPYTTVTTQNTASQ
+                     TMSAIENLRQRNTYTHKDLENSL"
+ORIGIN      
+        1 atggatagcg aattttttca gccggtgtat ccgcgtcatt atggcgaatg cctgagcccg
+       61 gtgaccaccc cgagcttttt tagcacccat atgtatacca ttctgattgc gattgtggtg
+      121 ctggtgatta ttattattgt gctgatttat ctgtttagca gccgtaaaaa aaaagcggcg
+      181 gcggcgattg aagaagaaga tattcagttt attaacccgt atcaggatca gcagtgggtg
+      241 gaagtgaccc cgcagccggg caccagcaaa ccggcgggcg cgaccaccgc gagcgcgggc
+      301 aaaccggtga ccggccgtcc ggcgaccaac cgtccggcga ccaacaaacc ggtgaccgat
+      361 aacccggtga ccgatcgtct ggtgatggcg accggcggcc cggcggcggc gccggcggcg
+      421 gcgagcgcgc atccgaccga accgtatacc accgtgacca cccagaacac cgcgagccag
+      481 accatgagcg cgattgaaaa cctgcgtcag cgtaacacct atacccataa agatctggaa
+      541 aacagcctgt aa
+//
+
+LOCUS       KC662391                 558 bp    DNA     linear   VRL 05-MAR-2014
+DEFINITION  African swine fever virus strain NAM 86/1 structural protein p54
+            (E183L) gene, complete cds.
+ACCESSION   KC662391
+VERSION     KC662391.1
+KEYWORDS    .
+SOURCE      African swine fever virus
+  ORGANISM  African swine fever virus
+            Viruses; dsDNA viruses, no RNA stage; Asfarviridae; Asfivirus.
+REFERENCE   1  (bases 1 to 558)
+  AUTHORS   van Heerden,J., Malan,K. and Heath,L.
+  TITLE     P54 sequences from various origins
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 558)
+  AUTHORS   van Heerden,J., Malan,K. and Heath,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-FEB-2013) Transboundary Animal Diseases Programme,
+            Onderstepoort Veterinary Institute, Private bag 5, Onderstepoort,
+            Gauteng 0110, South Africa
+FEATURES             Location/Qualifiers
+     source          1..558
+                     /organism="African swine fever virus"
+                     /mol_type="genomic DNA"
+                     /strain="NAM 86/1"
+                     /host="pig"
+                     /db_xref="taxon:10497"
+                     /country="Namibia"
+                     /collection_date="1986"
+     gene            1..558
+                     /gene="E183L"
+     CDS             1..558
+                     /gene="E183L"
+                     /codon_start=1
+                     /product="structural protein p54"
+                     /protein_id="AHA58944.1"
+                     /translation="MDSEFFQPVYPRHYGECLSPVTTPSFFSTHMYTILIAIVVLVII
+                     IIVLIYLFSSRKKKAAAAIEEEDIQFINPYQDQQWVEVTPQPGTSKPAGATTASAGKP
+                     VTGRPATNRPATNKPVTDNPVTDRLVMATGGPAAAPAAASAPAHPTEPYTTVTTQNTA
+                     SQTMSAIENLRQRNTYTHKDLENSL"
+ORIGIN      
+        1 atggattctg aattttttca accggtttat ccgcggcatt atggtgagtg tttgtcacca
+       61 gtcaccacac caagcttctt ctccacacat atgtatacta ttctcattgc tatcgtggtc
+      121 ttagtcatta ttatcatcgt tctaatctat ctattttctt caagaaagaa aaaagctgct
+      181 gccgctattg aggaggaaga tatacagttt ataaatcctt atcaagatca gcagtgggta
+      241 gaagtcactc cacaaccagg tacctctaaa ccggctggag cgactacagc aagtgcaggc
+      301 aagccagtca cgggcagacc ggcaacaaac agaccagcaa caaacaaacc agtcacggac
+      361 aacccagtta cggacagact agtcatggca actggcgggc cagcggccgc acctgcggcc
+      421 gcgagtgctc ctgctcatcc gactgagcct tacacgacag tcactactca gaacactgct
+      481 tcacaaacaa tgtcggctat tgaaaattta cgacaaagaa acacctatac gcataaagac
+      541 ctagaaaact ccttgtaa
+//
+
