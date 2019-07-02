@@ -5,4 +5,6 @@ Write commnads to:
 2. Inside the TestDir, create Dir0 to Dir9 directories
 3. Inside each Dir**n** directory, create 10 files file**n**0 to file**n**9
 
-Write a script that can do all the above at once.
+Comnine all the commands in one script that erases everythin first before rebuilding the whole testDir data directory structure.
+
+
