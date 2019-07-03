@@ -20,4 +20,15 @@ then
   num_chunks=$(( num_chunks + 1 ))
 fi
 
-echo "${num_chunks}"
+# echo "${num_chunks}"
+
+for filenum in `seq 1 ${num_chunks}`
+do
+  # echo "${filenum}"
+  tail -n +$(( 1 + 10 * (filenum-1) )) spreadsheet.csv | head -n 10 > chunk${filenum}.csv
+
+done
+
+
+
+
